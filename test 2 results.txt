@@ -1,0 +1,7979 @@
+Тест (№2) 06.20.2024 - 200 шт - результаты
+
+[
+  {
+    "raceId": 1047497,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A8",
+    "time": "11:01:00",
+    "track": "Sheffield",
+    "currentBalance": 203.9,
+    "profit": 1.95,
+    "dogs": [
+      {
+        "dogName": "Megs Promise",
+        "rank": 1,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Drumdoit Al",
+        "rank": 5,
+        "betfairOdds": 26
+      },
+      {
+        "dogName": "Ancient East",
+        "rank": 6,
+        "betfairOdds": 13
+      },
+      {
+        "dogName": "Badminton Marian",
+        "rank": 4,
+        "betfairOdds": 9.2
+      },
+      {
+        "dogName": "Veronicasfantasy",
+        "rank": 2,
+        "betfairOdds": 3.6
+      },
+      {
+        "dogName": "Sandwood Matilda",
+        "rank": 3,
+        "betfairOdds": 3.25
+      }
+    ]
+  },
+  {
+    "raceId": 1047227,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A4",
+    "time": "11:09:00",
+    "track": "Nottingham",
+    "currentBalance": 203.9,
+    "profit": 1.95,
+    "dogs": [
+      {
+        "dogName": "Kilwest Albert",
+        "rank": 5,
+        "betfairOdds": 20
+      },
+      {
+        "dogName": "Townsend Tyson",
+        "rank": 4,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Longacres Snout",
+        "rank": 6,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Platinum Bea",
+        "rank": 3,
+        "betfairOdds": 5.2
+      },
+      {
+        "dogName": "Jaymir Bono",
+        "rank": 1,
+        "betfairOdds": 8.2
+      },
+      {
+        "dogName": "Celer Honcho",
+        "rank": 2,
+        "betfairOdds": 2.42
+      }
+    ]
+  },
+  {
+    "raceId": 1047498,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A6",
+    "time": "11:18:00",
+    "track": "Sheffield",
+    "currentBalance": 207.8,
+    "profit": 3.9,
+    "dogs": [
+      {
+        "dogName": "Kishlawn Cian",
+        "rank": 3,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Bower Hilda",
+        "rank": 4,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Drumcrow Harley",
+        "rank": 5,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Rapido Lu Lu",
+        "rank": 6,
+        "betfairOdds": 4
+      },
+      {
+        "dogName": "Crystal Impact",
+        "rank": 1,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "Nowhereman",
+        "rank": 2,
+        "betfairOdds": 5
+      }
+    ]
+  },
+  {
+    "raceId": 1047228,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A4",
+    "time": "11:27:00",
+    "track": "Nottingham",
+    "currentBalance": 207.8,
+    "profit": 3.9,
+    "dogs": [
+      {
+        "dogName": "Tidy Up Cloud",
+        "rank": 2,
+        "betfairOdds": 5.3
+      },
+      {
+        "dogName": "Poxy Roxy",
+        "rank": 1,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Shianns Gem",
+        "rank": 3,
+        "betfairOdds": 9.4
+      },
+      {
+        "dogName": "Illusive Jo",
+        "rank": 4,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Waikiki Bolt",
+        "rank": 5,
+        "betfairOdds": 2.56
+      },
+      {
+        "dogName": "Rossbrook Zoe",
+        "rank": 6,
+        "betfairOdds": 19
+      }
+    ]
+  },
+  {
+    "raceId": 1047499,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A5",
+    "time": "11:34:00",
+    "track": "Sheffield",
+    "currentBalance": 207.8,
+    "profit": 3.9,
+    "dogs": [
+      {
+        "dogName": "Ballintemple Kid",
+        "rank": 1,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Mineolaguinevere",
+        "rank": 3,
+        "betfairOdds": 5.3
+      },
+      {
+        "dogName": "Kearneys Ranger",
+        "rank": 2,
+        "betfairOdds": 3.95
+      },
+      {
+        "dogName": "No Escape",
+        "rank": 4,
+        "betfairOdds": 13
+      },
+      {
+        "dogName": "Magna Marshall",
+        "rank": 6,
+        "betfairOdds": 24
+      },
+      {
+        "dogName": "A Kiss For Luck",
+        "rank": 5,
+        "betfairOdds": 3.45
+      }
+    ]
+  },
+  {
+    "raceId": 1047533,
+    "date": "2024-06-20",
+    "distance": 450,
+    "grade": "A7",
+    "time": "11:38:00",
+    "track": "Oxford",
+    "currentBalance": 207.8,
+    "profit": 3.9,
+    "dogs": [
+      {
+        "dogName": "Jumpstart Jen",
+        "rank": 1,
+        "betfairOdds": 2.54
+      },
+      {
+        "dogName": "Wessex Ryder",
+        "rank": 2,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Knockglass Rover",
+        "rank": 3,
+        "betfairOdds": 3.45
+      },
+      {
+        "dogName": "Monleek Helsinki",
+        "rank": 5,
+        "betfairOdds": 9
+      },
+      {
+        "dogName": "Strictly Ben",
+        "rank": 6,
+        "betfairOdds": 9.8
+      },
+      {
+        "dogName": "Thisdivacanrun",
+        "rank": 4,
+        "betfairOdds": 32
+      }
+    ]
+  },
+  {
+    "raceId": 1047229,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A6",
+    "time": "11:43:00",
+    "track": "Nottingham",
+    "currentBalance": 207.8,
+    "profit": 3.9,
+    "dogs": [
+      {
+        "dogName": "Senahel Monster",
+        "rank": 2,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Honoursinderella",
+        "rank": 1,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Hollyhill Nutter",
+        "rank": 3,
+        "betfairOdds": 29
+      },
+      {
+        "dogName": "Burgess Mistress",
+        "rank": 4,
+        "betfairOdds": 8.6
+      },
+      {
+        "dogName": "Kelva Air",
+        "rank": 5,
+        "betfairOdds": 1.71
+      },
+      {
+        "dogName": "Jaymir Setanta",
+        "rank": 6,
+        "betfairOdds": 14.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047500,
+    "date": "2024-06-20",
+    "distance": 280,
+    "grade": "D4",
+    "time": "11:52:00",
+    "track": "Sheffield",
+    "currentBalance": 207.8,
+    "profit": 3.9,
+    "dogs": [
+      {
+        "dogName": "Ritasueandbobtoo",
+        "rank": 5,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Aghadown Benny",
+        "rank": 6,
+        "betfairOdds": 34
+      },
+      {
+        "dogName": "Geelo Drama King",
+        "rank": 4,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Killeigh Trend",
+        "rank": 3,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "Glaise Domo",
+        "rank": 1,
+        "betfairOdds": 4
+      },
+      {
+        "dogName": "Kilara Jag",
+        "rank": 2,
+        "betfairOdds": 5.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047534,
+    "date": "2024-06-20",
+    "distance": 450,
+    "grade": "A7",
+    "time": "11:54:00",
+    "track": "Oxford",
+    "currentBalance": 211.7,
+    "profit": 5.85,
+    "dogs": [
+      {
+        "dogName": "Rosegarland Gina",
+        "rank": 1,
+        "betfairOdds": 3.25
+      },
+      {
+        "dogName": "Burrow Moon",
+        "rank": 2,
+        "betfairOdds": 3.8
+      },
+      {
+        "dogName": "Savana Talisa",
+        "rank": 3,
+        "betfairOdds": 5.3
+      },
+      {
+        "dogName": "Tolpuddle Rose",
+        "rank": 4,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Savana Cheery",
+        "rank": 5,
+        "betfairOdds": 11.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047230,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A2",
+    "time": "12:01:00",
+    "track": "Nottingham",
+    "currentBalance": 215.6,
+    "profit": 7.8,
+    "dogs": [
+      {
+        "dogName": "Brickey Chief",
+        "rank": 4,
+        "betfairOdds": 4
+      },
+      {
+        "dogName": "Tyrone",
+        "rank": 1,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "Honour Face",
+        "rank": 5,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Kilara Volcano",
+        "rank": 6,
+        "betfairOdds": 8.6
+      },
+      {
+        "dogName": "Dromana Meg",
+        "rank": 3,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Time Counts",
+        "rank": 2,
+        "betfairOdds": 6.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047501,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A6",
+    "time": "12:09:00",
+    "track": "Sheffield",
+    "currentBalance": 219.5,
+    "profit": 9.75,
+    "dogs": [
+      {
+        "dogName": "Drumdoit Nippy",
+        "rank": 1,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Hollywell Oddsox",
+        "rank": 2,
+        "betfairOdds": 3.45
+      },
+      {
+        "dogName": "Sheffield Bella",
+        "rank": 3,
+        "betfairOdds": 32
+      },
+      {
+        "dogName": "Slippy Daniel",
+        "rank": 4,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Bansha Babs",
+        "rank": 5,
+        "betfairOdds": 2.78
+      },
+      {
+        "dogName": "Drumdoit Don",
+        "rank": 6,
+        "betfairOdds": 15.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047535,
+    "date": "2024-06-20",
+    "distance": 450,
+    "grade": "A2",
+    "time": "12:12:00",
+    "track": "Oxford",
+    "currentBalance": 205.5,
+    "profit": 2.75,
+    "dogs": [
+      {
+        "dogName": "Not A Scooby",
+        "rank": 1,
+        "betfairOdds": 4.5
+      },
+      {
+        "dogName": "Riambo Lily",
+        "rank": 2,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Klassical Sarah",
+        "rank": 3,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Spot On Oisin",
+        "rank": 4,
+        "betfairOdds": 2.42
+      },
+      {
+        "dogName": "Ardrahan Xqusite",
+        "rank": 5,
+        "betfairOdds": 5.9
+      }
+    ]
+  },
+  {
+    "raceId": 1047502,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A2",
+    "time": "12:26:00",
+    "track": "Sheffield",
+    "currentBalance": 205.5,
+    "profit": 2.75,
+    "dogs": [
+      {
+        "dogName": "Crystal Power",
+        "rank": 1,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Distant Headline",
+        "rank": 2,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "Distant Flow",
+        "rank": 4,
+        "betfairOdds": 3.9
+      },
+      {
+        "dogName": "Mineolasuperstar",
+        "rank": 3,
+        "betfairOdds": 3.65
+      },
+      {
+        "dogName": "Holding Lady",
+        "rank": 5,
+        "betfairOdds": 9.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047536,
+    "date": "2024-06-20",
+    "distance": 253,
+    "grade": "D3",
+    "time": "12:29:00",
+    "track": "Oxford",
+    "currentBalance": 198.22,
+    "profit": -0.89,
+    "dogs": [
+      {
+        "dogName": "Swift Embezzle",
+        "rank": 1,
+        "betfairOdds": 2.82
+      },
+      {
+        "dogName": "Selker Bay Emily",
+        "rank": 5,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Eagles Love",
+        "rank": 2,
+        "betfairOdds": 3.1
+      },
+      {
+        "dogName": "Hitthelids Kid",
+        "rank": 4,
+        "betfairOdds": 32
+      },
+      {
+        "dogName": "Shake Ya Butt",
+        "rank": 6,
+        "betfairOdds": 25
+      },
+      {
+        "dogName": "Fireguard",
+        "rank": 3,
+        "betfairOdds": 10
+      }
+    ]
+  },
+  {
+    "raceId": 1047503,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A4",
+    "time": "12:42:00",
+    "track": "Sheffield",
+    "currentBalance": 202.12,
+    "profit": 1.06,
+    "dogs": [
+      {
+        "dogName": "Kilara Bundee",
+        "rank": 3,
+        "betfairOdds": 3.1
+      },
+      {
+        "dogName": "Keplar Titan",
+        "rank": 5,
+        "betfairOdds": 3.4
+      },
+      {
+        "dogName": "Suspicious Minds",
+        "rank": 6,
+        "betfairOdds": 55
+      },
+      {
+        "dogName": "Galsgone",
+        "rank": 4,
+        "betfairOdds": 9.6
+      },
+      {
+        "dogName": "Kiki Roo",
+        "rank": 2,
+        "betfairOdds": 10.5
+      },
+      {
+        "dogName": "Links Dream",
+        "rank": 1,
+        "betfairOdds": 7.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047537,
+    "date": "2024-06-20",
+    "distance": 450,
+    "grade": "A1",
+    "time": "12:46:00",
+    "track": "Oxford",
+    "currentBalance": 202.12,
+    "profit": 1.06,
+    "dogs": [
+      {
+        "dogName": "Boyneside Bailey",
+        "rank": 1,
+        "betfairOdds": 17
+      },
+      {
+        "dogName": "Oi Oi Joey",
+        "rank": 2,
+        "betfairOdds": 4
+      },
+      {
+        "dogName": "Savana Soda",
+        "rank": 2,
+        "betfairOdds": 13
+      },
+      {
+        "dogName": "Alright Frank",
+        "rank": 5,
+        "betfairOdds": 7
+      },
+      {
+        "dogName": "Limerick Girl",
+        "rank": 4,
+        "betfairOdds": 3.6
+      },
+      {
+        "dogName": "Bellicus Brandy",
+        "rank": 6,
+        "betfairOdds": 5.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047233,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A6",
+    "time": "12:51:00",
+    "track": "Nottingham",
+    "currentBalance": 202.12,
+    "profit": 1.06,
+    "dogs": [
+      {
+        "dogName": "Coney Worldie",
+        "rank": 2,
+        "betfairOdds": 4.2
+      },
+      {
+        "dogName": "Rackethall Nifty",
+        "rank": 1,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Kelva Sue",
+        "rank": 4,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Baby Sade",
+        "rank": 6,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Mylilhondafifty",
+        "rank": 5,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Lexis Ironman",
+        "rank": 3,
+        "betfairOdds": 12
+      }
+    ]
+  },
+  {
+    "raceId": 1047538,
+    "date": "2024-06-20",
+    "distance": 450,
+    "grade": "OR",
+    "time": "13:03:00",
+    "track": "Oxford",
+    "currentBalance": 206.02,
+    "profit": 3.01,
+    "dogs": [
+      {
+        "dogName": "Marston Nick",
+        "rank": 1,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "Brisk Bono",
+        "rank": 2,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Moaning Spirit",
+        "rank": 3,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Cavan For Sam",
+        "rank": 4,
+        "betfairOdds": 17.5
+      },
+      {
+        "dogName": "Droopys Swag",
+        "rank": 6,
+        "betfairOdds": 3.55
+      },
+      {
+        "dogName": "Project Eden",
+        "rank": 5,
+        "betfairOdds": 11.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047234,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A8",
+    "time": "13:08:00",
+    "track": "Nottingham",
+    "currentBalance": 206.02,
+    "profit": 3.01,
+    "dogs": [
+      {
+        "dogName": "Honour Athena",
+        "rank": 1,
+        "betfairOdds": 3
+      },
+      {
+        "dogName": "Ballinabola Nial",
+        "rank": 2,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "West Bank Ruby",
+        "rank": 4,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Honour Connemara",
+        "rank": 3,
+        "betfairOdds": 9.6
+      },
+      {
+        "dogName": "Marmalade Bear",
+        "rank": 5,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Honour Emerald",
+        "rank": 6,
+        "betfairOdds": 48
+      }
+    ]
+  },
+  {
+    "raceId": 1047505,
+    "date": "2024-06-20",
+    "distance": 280,
+    "grade": "D3",
+    "time": "13:17:00",
+    "track": "Sheffield",
+    "currentBalance": 206.02,
+    "profit": 3.01,
+    "dogs": [
+      {
+        "dogName": "Go By Thecommons",
+        "rank": 1,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Clockwork Doll",
+        "rank": 2,
+        "betfairOdds": 2.24
+      },
+      {
+        "dogName": "Sure Swift",
+        "rank": 3,
+        "betfairOdds": 9.8
+      },
+      {
+        "dogName": "Thornfield Kie",
+        "rank": 4,
+        "betfairOdds": 9.8
+      },
+      {
+        "dogName": "Memories Grade",
+        "rank": 6,
+        "betfairOdds": 22
+      },
+      {
+        "dogName": "Mukuru Shadow",
+        "rank": 5,
+        "betfairOdds": 7.6
+      }
+    ]
+  },
+  {
+    "raceId": 1047539,
+    "date": "2024-06-20",
+    "distance": 450,
+    "grade": "A3",
+    "time": "13:19:00",
+    "track": "Oxford",
+    "currentBalance": 206.02,
+    "profit": 3.01,
+    "dogs": [
+      {
+        "dogName": "Clonkeen Mac",
+        "rank": 1,
+        "betfairOdds": 2.14
+      },
+      {
+        "dogName": "No Better Boy",
+        "rank": 2,
+        "betfairOdds": 22
+      },
+      {
+        "dogName": "Savana Romany",
+        "rank": 3,
+        "betfairOdds": 3.75
+      },
+      {
+        "dogName": "Cuile Live Cross",
+        "rank": 4,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Hazelhill Ned",
+        "rank": 5,
+        "betfairOdds": 13
+      }
+    ]
+  },
+  {
+    "raceId": 1047235,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "D3",
+    "time": "13:26:00",
+    "track": "Nottingham",
+    "currentBalance": 209.92,
+    "profit": 4.96,
+    "dogs": [
+      {
+        "dogName": "Not Wired Up",
+        "rank": 5,
+        "betfairOdds": 5.7
+      },
+      {
+        "dogName": "Foulkscourt Bull",
+        "rank": 4,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Good Ruler",
+        "rank": 1,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Charlies Future",
+        "rank": 6,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "Lizey Lou",
+        "rank": 3,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Tysons Zeus",
+        "rank": 2,
+        "betfairOdds": 6.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047506,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A3",
+    "time": "13:33:00",
+    "track": "Sheffield",
+    "currentBalance": 209.92,
+    "profit": 4.96,
+    "dogs": [
+      {
+        "dogName": "Annual Benefit",
+        "rank": 6,
+        "betfairOdds": 21
+      },
+      {
+        "dogName": "Old Fort Jukebox",
+        "rank": 2,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Pattys Scoot",
+        "rank": 5,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Waiting So Long",
+        "rank": 1,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Distant Puma",
+        "rank": 3,
+        "betfairOdds": 9
+      },
+      {
+        "dogName": "Ballymac Lawless",
+        "rank": 4,
+        "betfairOdds": 2.42
+      }
+    ]
+  },
+  {
+    "raceId": 1047540,
+    "date": "2024-06-20",
+    "distance": 450,
+    "grade": "A3",
+    "time": "13:37:00",
+    "track": "Oxford",
+    "currentBalance": 209.92,
+    "profit": 4.96,
+    "dogs": [
+      {
+        "dogName": "Moneygall Rocky",
+        "rank": 1,
+        "betfairOdds": 5.2
+      },
+      {
+        "dogName": "Avas Group",
+        "rank": 2,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Savana Jumbo",
+        "rank": 3,
+        "betfairOdds": 3.05
+      },
+      {
+        "dogName": "Popa Sully",
+        "rank": 5,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Havana Sweetie",
+        "rank": 4,
+        "betfairOdds": 4.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047507,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A3",
+    "time": "13:51:00",
+    "track": "Sheffield",
+    "currentBalance": 213.82,
+    "profit": 6.91,
+    "dogs": [
+      {
+        "dogName": "Has A Squeak",
+        "rank": 1,
+        "betfairOdds": 8.2
+      },
+      {
+        "dogName": "Silver King",
+        "rank": 3,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Marcianos Punch",
+        "rank": 2,
+        "betfairOdds": 5.3
+      },
+      {
+        "dogName": "Whyaye Pet",
+        "rank": 4,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "The Corinthian",
+        "rank": 5,
+        "betfairOdds": 2.38
+      }
+    ]
+  },
+  {
+    "raceId": 1047541,
+    "date": "2024-06-20",
+    "distance": 450,
+    "grade": "A6",
+    "time": "13:54:00",
+    "track": "Oxford",
+    "currentBalance": 213.82,
+    "profit": 6.91,
+    "dogs": [
+      {
+        "dogName": "Sweet Talker",
+        "rank": 5,
+        "betfairOdds": 2.28
+      },
+      {
+        "dogName": "Moneygall Aidan",
+        "rank": 2,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Selker Bay Belle",
+        "rank": 1,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Savana Dakota",
+        "rank": 4,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Causeway Jill",
+        "rank": 3,
+        "betfairOdds": 6.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047237,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A6",
+    "time": "13:59:00",
+    "track": "Nottingham",
+    "currentBalance": 202.82,
+    "profit": 1.41,
+    "dogs": [
+      {
+        "dogName": "Steel Man",
+        "rank": 1,
+        "betfairOdds": 3.75
+      },
+      {
+        "dogName": "New Cross Nights",
+        "rank": 2,
+        "betfairOdds": 3.3
+      },
+      {
+        "dogName": "Artic Blue",
+        "rank": 3,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Gelertandthewolf",
+        "rank": 4,
+        "betfairOdds": 9.4
+      },
+      {
+        "dogName": "Berties Lad",
+        "rank": 5,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Bling Bling Lily",
+        "rank": 6,
+        "betfairOdds": 6
+      }
+    ]
+  },
+  {
+    "raceId": 1047508,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A6",
+    "time": "14:07:00",
+    "track": "Sheffield",
+    "currentBalance": 206.72,
+    "profit": 3.36,
+    "dogs": [
+      {
+        "dogName": "Skeard Saoirse",
+        "rank": 1,
+        "betfairOdds": 9
+      },
+      {
+        "dogName": "Slippy Shane",
+        "rank": 2,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Ballyboss Connie",
+        "rank": 3,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Travelingsoldier",
+        "rank": 4,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Slippy Burkie",
+        "rank": 5,
+        "betfairOdds": 2.86
+      },
+      {
+        "dogName": "Goldcash Dysart",
+        "rank": 6,
+        "betfairOdds": 13
+      }
+    ]
+  },
+  {
+    "raceId": 1047542,
+    "date": "2024-06-20",
+    "distance": 450,
+    "grade": "A8",
+    "time": "14:11:00",
+    "track": "Oxford",
+    "currentBalance": 206.72,
+    "profit": 3.36,
+    "dogs": [
+      {
+        "dogName": "Sparta Smash",
+        "rank": 1,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Savana Tehya",
+        "rank": 3,
+        "betfairOdds": 2.04
+      },
+      {
+        "dogName": "Eileens Run",
+        "rank": 4,
+        "betfairOdds": 9
+      },
+      {
+        "dogName": "Sharp N Smart",
+        "rank": 2,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Savana Tayto",
+        "rank": 6,
+        "betfairOdds": 23
+      },
+      {
+        "dogName": "Hitthelids Brian",
+        "rank": 5,
+        "betfairOdds": 32
+      }
+    ]
+  },
+  {
+    "raceId": 1047238,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A3",
+    "time": "14:14:00",
+    "track": "Nottingham",
+    "currentBalance": 206.72,
+    "profit": 3.36,
+    "dogs": [
+      {
+        "dogName": "Senahel Spottie",
+        "rank": 1,
+        "betfairOdds": 3.2
+      },
+      {
+        "dogName": "Tornaroy Trip",
+        "rank": 2,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Slamannan Villa",
+        "rank": 3,
+        "betfairOdds": 5.5
+      },
+      {
+        "dogName": "Jaymir Icon",
+        "rank": 4,
+        "betfairOdds": 3.4
+      },
+      {
+        "dogName": "Meeling Road",
+        "rank": 6,
+        "betfairOdds": 42
+      },
+      {
+        "dogName": "Memories Cash",
+        "rank": 5,
+        "betfairOdds": 14
+      }
+    ]
+  },
+  {
+    "raceId": 1047563,
+    "date": "2024-06-20",
+    "distance": 380,
+    "grade": "A8",
+    "time": "14:23:00",
+    "track": "Crayford",
+    "currentBalance": 210.62,
+    "profit": 5.31,
+    "dogs": [
+      {
+        "dogName": "Billymac Bingo",
+        "rank": 1,
+        "betfairOdds": 2.22
+      },
+      {
+        "dogName": "Droopys Zest",
+        "rank": 2,
+        "betfairOdds": 9
+      },
+      {
+        "dogName": "Speakofthedevil",
+        "rank": 4,
+        "betfairOdds": 14
+      },
+      {
+        "dogName": "Mellie Malou",
+        "rank": 3,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Zenta",
+        "rank": 5,
+        "betfairOdds": 6
+      }
+    ]
+  },
+  {
+    "raceId": 1047485,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A6",
+    "time": "14:29:00",
+    "track": "Perry Barr",
+    "currentBalance": 210.62,
+    "profit": 5.31,
+    "dogs": [
+      {
+        "dogName": "Ferryforth Daisy",
+        "rank": 1,
+        "betfairOdds": 20
+      },
+      {
+        "dogName": "Lynnia Storm",
+        "rank": 2,
+        "betfairOdds": 3.3
+      },
+      {
+        "dogName": "Rapido Beat",
+        "rank": 3,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Glenduff Laurita",
+        "rank": 4,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Twilight Favour",
+        "rank": 5,
+        "betfairOdds": 2.84
+      },
+      {
+        "dogName": "Cooladerry Code",
+        "rank": 6,
+        "betfairOdds": 23
+      }
+    ]
+  },
+  {
+    "raceId": 1047509,
+    "date": "2024-06-20",
+    "distance": 462,
+    "grade": "A5",
+    "time": "14:36:00",
+    "track": "Kinsley",
+    "currentBalance": 214.52,
+    "profit": 7.26,
+    "dogs": [
+      {
+        "dogName": "Restless Jet",
+        "rank": 1,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Springwell Zoey",
+        "rank": 2,
+        "betfairOdds": 19
+      },
+      {
+        "dogName": "Ballymac Riley",
+        "rank": 3,
+        "betfairOdds": 8.8
+      },
+      {
+        "dogName": "Cloncunny Shell",
+        "rank": 4,
+        "betfairOdds": 10.5
+      },
+      {
+        "dogName": "Ballymac Winnie",
+        "rank": 6,
+        "betfairOdds": 3.65
+      },
+      {
+        "dogName": "Ferndale Gin",
+        "rank": 5,
+        "betfairOdds": 2.94
+      }
+    ]
+  },
+  {
+    "raceId": 1047486,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A6",
+    "time": "14:48:00",
+    "track": "Perry Barr",
+    "currentBalance": 214.52,
+    "profit": 7.26,
+    "dogs": [
+      {
+        "dogName": "Burrow Buzz",
+        "rank": 1,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Eilys Blue",
+        "rank": 2,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Shortwood Nero",
+        "rank": 3,
+        "betfairOdds": 21
+      },
+      {
+        "dogName": "Hugos Bosh",
+        "rank": 4,
+        "betfairOdds": 2.12
+      },
+      {
+        "dogName": "Rosstemple Jaxi",
+        "rank": 5,
+        "betfairOdds": 18
+      },
+      {
+        "dogName": "Kates Charm",
+        "rank": 6,
+        "betfairOdds": 14.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047510,
+    "date": "2024-06-20",
+    "distance": 462,
+    "grade": "A5",
+    "time": "14:54:00",
+    "track": "Kinsley",
+    "currentBalance": 218.42,
+    "profit": 9.21,
+    "dogs": [
+      {
+        "dogName": "Group Goldie Lox",
+        "rank": 1,
+        "betfairOdds": 13
+      },
+      {
+        "dogName": "Hazelgrove Milo",
+        "rank": 3,
+        "betfairOdds": 3.65
+      },
+      {
+        "dogName": "Barnside Boyo",
+        "rank": 2,
+        "betfairOdds": 9.2
+      },
+      {
+        "dogName": "Ashville Bucko",
+        "rank": 4,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Coonough Chimes",
+        "rank": 6,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Parkview Alice",
+        "rank": 5,
+        "betfairOdds": 3.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047565,
+    "date": "2024-06-20",
+    "distance": 380,
+    "grade": "A8",
+    "time": "15:01:00",
+    "track": "Crayford",
+    "currentBalance": 218.42,
+    "profit": 9.21,
+    "dogs": [
+      {
+        "dogName": "Chelms Marley",
+        "rank": 1,
+        "betfairOdds": 3.4
+      },
+      {
+        "dogName": "Kratos",
+        "rank": 3,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Jayque Diva",
+        "rank": 2,
+        "betfairOdds": 3.2
+      },
+      {
+        "dogName": "Master Monday",
+        "rank": 5,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Moaning Capriati",
+        "rank": 4,
+        "betfairOdds": 9.2
+      }
+    ]
+  },
+  {
+    "raceId": 1047487,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A3",
+    "time": "15:07:00",
+    "track": "Perry Barr",
+    "currentBalance": 202.42,
+    "profit": 1.21,
+    "dogs": [
+      {
+        "dogName": "Autumn Snapper",
+        "rank": 1,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "Southwind Ned",
+        "rank": 2,
+        "betfairOdds": 3.7
+      },
+      {
+        "dogName": "Dropsy Omalley",
+        "rank": 3,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "Swift Velma",
+        "rank": 4,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Silverhill Duke",
+        "rank": 5,
+        "betfairOdds": 11.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047543,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "OR",
+    "time": "15:11:00",
+    "track": "Towcester",
+    "currentBalance": 202.42,
+    "profit": 1.21,
+    "dogs": [
+      {
+        "dogName": "Gurtnacrehy Paul",
+        "rank": 1,
+        "betfairOdds": 1.89
+      },
+      {
+        "dogName": "Westfield Romeo",
+        "rank": 4,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Salacres Trixie",
+        "rank": 6,
+        "betfairOdds": 170
+      },
+      {
+        "dogName": "Salacres Monet",
+        "rank": 5,
+        "betfairOdds": 55
+      },
+      {
+        "dogName": "Late Yahoo",
+        "rank": 2,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Trapstyle Louis",
+        "rank": 3,
+        "betfairOdds": 10
+      }
+    ]
+  },
+  {
+    "raceId": 1047511,
+    "date": "2024-06-20",
+    "distance": 462,
+    "grade": "A5",
+    "time": "15:13:00",
+    "track": "Kinsley",
+    "currentBalance": 206.32,
+    "profit": 3.16,
+    "dogs": [
+      {
+        "dogName": "Derrymore Ella",
+        "rank": 1,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Shrewd Cass",
+        "rank": 2,
+        "betfairOdds": 3.6
+      },
+      {
+        "dogName": "Clondouglas Mia",
+        "rank": 3,
+        "betfairOdds": 8.8
+      },
+      {
+        "dogName": "Ballykay Buttons",
+        "rank": 4,
+        "betfairOdds": 5.8
+      },
+      {
+        "dogName": "Rectors Reprieve",
+        "rank": 5,
+        "betfairOdds": 9.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047566,
+    "date": "2024-06-20",
+    "distance": 380,
+    "grade": "A10",
+    "time": "15:19:00",
+    "track": "Crayford",
+    "currentBalance": 210.22,
+    "profit": 5.11,
+    "dogs": [
+      {
+        "dogName": "Blueboy Brian",
+        "rank": 1,
+        "betfairOdds": 3.45
+      },
+      {
+        "dogName": "Tons Princess",
+        "rank": 2,
+        "betfairOdds": 3.3
+      },
+      {
+        "dogName": "Catunda Raven",
+        "rank": 5,
+        "betfairOdds": 5.5
+      },
+      {
+        "dogName": "No Overlap",
+        "rank": 3,
+        "betfairOdds": 10.5
+      },
+      {
+        "dogName": "Old Fort Amelia",
+        "rank": 4,
+        "betfairOdds": 8.6
+      }
+    ]
+  },
+  {
+    "raceId": 1047488,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A4",
+    "time": "15:26:00",
+    "track": "Perry Barr",
+    "currentBalance": 214.12,
+    "profit": 7.06,
+    "dogs": [
+      {
+        "dogName": "Firecrackerheidi",
+        "rank": 1,
+        "betfairOdds": 2.58
+      },
+      {
+        "dogName": "Hurry Up Bella",
+        "rank": 2,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Dreamin Faith",
+        "rank": 3,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Haka Luigi",
+        "rank": 4,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "It Aint Me",
+        "rank": 5,
+        "betfairOdds": 16.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047544,
+    "date": "2024-06-20",
+    "distance": 270,
+    "grade": "D3",
+    "time": "15:29:00",
+    "track": "Towcester",
+    "currentBalance": 218.02,
+    "profit": 9.01,
+    "dogs": [
+      {
+        "dogName": "Romeo Blade",
+        "rank": 1,
+        "betfairOdds": 1.94
+      },
+      {
+        "dogName": "Flee From Gossip",
+        "rank": 3,
+        "betfairOdds": 32
+      },
+      {
+        "dogName": "County Border",
+        "rank": 2,
+        "betfairOdds": 2.96
+      },
+      {
+        "dogName": "Salacres Damaine",
+        "rank": 4,
+        "betfairOdds": 13
+      },
+      {
+        "dogName": "Savana Avalle",
+        "rank": 5,
+        "betfairOdds": 27
+      }
+    ]
+  },
+  {
+    "raceId": 1047512,
+    "date": "2024-06-20",
+    "distance": 268,
+    "grade": "D3",
+    "time": "15:32:00",
+    "track": "Kinsley",
+    "currentBalance": 203.22,
+    "profit": 1.61,
+    "dogs": [
+      {
+        "dogName": "Lally Road",
+        "rank": 1,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "Glenview Pat",
+        "rank": 2,
+        "betfairOdds": 4
+      },
+      {
+        "dogName": "Kulana Gold",
+        "rank": 3,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Pinnacle Legacy",
+        "rank": 4,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Punk Poet",
+        "rank": 5,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Marinas Ollie",
+        "rank": 6,
+        "betfairOdds": 10
+      }
+    ]
+  },
+  {
+    "raceId": 1047567,
+    "date": "2024-06-20",
+    "distance": 540,
+    "grade": "S2",
+    "time": "15:38:00",
+    "track": "Crayford",
+    "currentBalance": 207.12,
+    "profit": 3.56,
+    "dogs": [
+      {
+        "dogName": "Flaming Candle",
+        "rank": 1,
+        "betfairOdds": 3.05
+      },
+      {
+        "dogName": "Silver Bow",
+        "rank": 3,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Swift Charming",
+        "rank": 4,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "One More Tune",
+        "rank": 2,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "Makeit Aveen",
+        "rank": 5,
+        "betfairOdds": 8.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047489,
+    "date": "2024-06-20",
+    "distance": 275,
+    "grade": "D3",
+    "time": "15:44:00",
+    "track": "Perry Barr",
+    "currentBalance": 211.02,
+    "profit": 5.51,
+    "dogs": [
+      {
+        "dogName": "Leave A Legacy",
+        "rank": 1,
+        "betfairOdds": 4.2
+      },
+      {
+        "dogName": "Porthall Biker",
+        "rank": 2,
+        "betfairOdds": 8.8
+      },
+      {
+        "dogName": "Soldiers Missile",
+        "rank": 3,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Burgess Claire",
+        "rank": 4,
+        "betfairOdds": 10.5
+      },
+      {
+        "dogName": "Shrewd News",
+        "rank": 5,
+        "betfairOdds": 7.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047545,
+    "date": "2024-06-20",
+    "distance": 270,
+    "grade": "D3",
+    "time": "15:49:00",
+    "track": "Towcester",
+    "currentBalance": 214.92,
+    "profit": 7.46,
+    "dogs": [
+      {
+        "dogName": "All About Kate",
+        "rank": 2,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Savana Judith",
+        "rank": 1,
+        "betfairOdds": 3.45
+      },
+      {
+        "dogName": "Salacres Mia",
+        "rank": 4,
+        "betfairOdds": 8.6
+      },
+      {
+        "dogName": "Can You Hear Me",
+        "rank": 5,
+        "betfairOdds": 3.5
+      },
+      {
+        "dogName": "Savana Liston",
+        "rank": 3,
+        "betfairOdds": 11
+      }
+    ]
+  },
+  {
+    "raceId": 1047513,
+    "date": "2024-06-20",
+    "distance": 462,
+    "grade": "A8",
+    "time": "15:51:00",
+    "track": "Kinsley",
+    "currentBalance": 218.82,
+    "profit": 9.41,
+    "dogs": [
+      {
+        "dogName": "Simpson Wardie",
+        "rank": 2,
+        "betfairOdds": 9.2
+      },
+      {
+        "dogName": "Revilo Champ",
+        "rank": 1,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Kilara Spear",
+        "rank": 5,
+        "betfairOdds": 5.2
+      },
+      {
+        "dogName": "Balymacken Diva",
+        "rank": 6,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Burrow Wild",
+        "rank": 3,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Sebastian",
+        "rank": 4,
+        "betfairOdds": 3.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047568,
+    "date": "2024-06-20",
+    "distance": 380,
+    "grade": "A6",
+    "time": "15:57:00",
+    "track": "Crayford",
+    "currentBalance": 222.72,
+    "profit": 11.36,
+    "dogs": [
+      {
+        "dogName": "Slowlane Jenny",
+        "rank": 1,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "Trapstyle Wee",
+        "rank": 3,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Moaning Medow",
+        "rank": 2,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "Bolt Chiefwisdom",
+        "rank": 4,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Miltown Pearl",
+        "rank": 5,
+        "betfairOdds": 5.3
+      },
+      {
+        "dogName": "Moaning Lynx",
+        "rank": 6,
+        "betfairOdds": 11.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047490,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A7",
+    "time": "16:03:00",
+    "track": "Perry Barr",
+    "currentBalance": 222.72,
+    "profit": 11.36,
+    "dogs": [
+      {
+        "dogName": "Sooty Something",
+        "rank": 1,
+        "betfairOdds": 2.46
+      },
+      {
+        "dogName": "Flyhigh Pebbles",
+        "rank": 2,
+        "betfairOdds": 16
+      },
+      {
+        "dogName": "Flyhigh Birdseye",
+        "rank": 3,
+        "betfairOdds": 17
+      },
+      {
+        "dogName": "Obsession",
+        "rank": 4,
+        "betfairOdds": 4
+      },
+      {
+        "dogName": "De Man Goose",
+        "rank": 5,
+        "betfairOdds": 21
+      },
+      {
+        "dogName": "Wave The Flag",
+        "rank": 6,
+        "betfairOdds": 7
+      }
+    ]
+  },
+  {
+    "raceId": 1047546,
+    "date": "2024-06-20",
+    "distance": 270,
+    "grade": "D3",
+    "time": "16:07:00",
+    "track": "Towcester",
+    "currentBalance": 226.62,
+    "profit": 13.31,
+    "dogs": [
+      {
+        "dogName": "Cloran Razz",
+        "rank": 1,
+        "betfairOdds": 3.25
+      },
+      {
+        "dogName": "Salacres Palermo",
+        "rank": 2,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Salacres Mikey",
+        "rank": 3,
+        "betfairOdds": 19
+      },
+      {
+        "dogName": "Rocket Jay",
+        "rank": 4,
+        "betfairOdds": 3.25
+      },
+      {
+        "dogName": "Salacres Dolce",
+        "rank": 5,
+        "betfairOdds": 18.5
+      },
+      {
+        "dogName": "Negus",
+        "rank": 6,
+        "betfairOdds": 15.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047569,
+    "date": "2024-06-20",
+    "distance": 380,
+    "grade": "A4",
+    "time": "16:16:00",
+    "track": "Crayford",
+    "currentBalance": 219.66,
+    "profit": 9.83,
+    "dogs": [
+      {
+        "dogName": "Galileo",
+        "rank": 2,
+        "betfairOdds": 3.55
+      },
+      {
+        "dogName": "Doohoma Prince",
+        "rank": 4,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Moaning Gabana",
+        "rank": 1,
+        "betfairOdds": 2.74
+      },
+      {
+        "dogName": "Roseville Lola",
+        "rank": 5,
+        "betfairOdds": 16
+      },
+      {
+        "dogName": "Moaning Sienna",
+        "rank": 6,
+        "betfairOdds": 13.5
+      },
+      {
+        "dogName": "Kuda Ruby",
+        "rank": 3,
+        "betfairOdds": 8.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047491,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A3",
+    "time": "16:22:00",
+    "track": "Perry Barr",
+    "currentBalance": 219.66,
+    "profit": 9.83,
+    "dogs": [
+      {
+        "dogName": "Noels Spider",
+        "rank": 1,
+        "betfairOdds": 8.8
+      },
+      {
+        "dogName": "Limekiln Pam",
+        "rank": 3,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "Galloway Rebel",
+        "rank": 4,
+        "betfairOdds": 14
+      },
+      {
+        "dogName": "Hurryuphollywood",
+        "rank": 5,
+        "betfairOdds": 3.25
+      },
+      {
+        "dogName": "Coconut Chicken",
+        "rank": 6,
+        "betfairOdds": 5.7
+      },
+      {
+        "dogName": "Crackaway Mattie",
+        "rank": 2,
+        "betfairOdds": 12.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047547,
+    "date": "2024-06-20",
+    "distance": 270,
+    "grade": "D2",
+    "time": "16:26:00",
+    "track": "Towcester",
+    "currentBalance": 219.66,
+    "profit": 9.83,
+    "dogs": [
+      {
+        "dogName": "Roses Riley",
+        "rank": 1,
+        "betfairOdds": 3.7
+      },
+      {
+        "dogName": "Makeit A Breeze",
+        "rank": 2,
+        "betfairOdds": 14.5
+      },
+      {
+        "dogName": "Confidentiality",
+        "rank": 5,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Savana Eske",
+        "rank": 3,
+        "betfairOdds": 8.6
+      },
+      {
+        "dogName": "Salacres Prodigy",
+        "rank": 4,
+        "betfairOdds": 3.7
+      },
+      {
+        "dogName": "Nowttodowithyou",
+        "rank": 6,
+        "betfairOdds": 8
+      }
+    ]
+  },
+  {
+    "raceId": 1047515,
+    "date": "2024-06-20",
+    "distance": 462,
+    "grade": "A5",
+    "time": "16:28:00",
+    "track": "Kinsley",
+    "currentBalance": 223.56,
+    "profit": 11.78,
+    "dogs": [
+      {
+        "dogName": "Pascali Rosie",
+        "rank": 1,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Spin It Danny",
+        "rank": 2,
+        "betfairOdds": 4
+      },
+      {
+        "dogName": "Kitmans Hero",
+        "rank": 3,
+        "betfairOdds": 5.2
+      },
+      {
+        "dogName": "Takeiteasytiger",
+        "rank": 4,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Newline Rush",
+        "rank": 5,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Magical Legend",
+        "rank": 6,
+        "betfairOdds": 5.7
+      }
+    ]
+  },
+  {
+    "raceId": 1047492,
+    "date": "2024-06-20",
+    "distance": 275,
+    "grade": "D3",
+    "time": "16:41:00",
+    "track": "Perry Barr",
+    "currentBalance": 223.56,
+    "profit": 11.78,
+    "dogs": [
+      {
+        "dogName": "Westview Ayling",
+        "rank": 1,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Coolpeach Molly",
+        "rank": 2,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Porthall Pat",
+        "rank": 3,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Headford Misty",
+        "rank": 4,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "Javelin",
+        "rank": 5,
+        "betfairOdds": 5.1
+      },
+      {
+        "dogName": "Easy Apache",
+        "rank": 6,
+        "betfairOdds": 9.6
+      }
+    ]
+  },
+  {
+    "raceId": 1047548,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A7",
+    "time": "16:44:00",
+    "track": "Towcester",
+    "currentBalance": 223.56,
+    "profit": 11.78,
+    "dogs": [
+      {
+        "dogName": "Savana Artemis",
+        "rank": 1,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "Meena",
+        "rank": 2,
+        "betfairOdds": 70
+      },
+      {
+        "dogName": "Petite Etoile",
+        "rank": 4,
+        "betfairOdds": 9.4
+      },
+      {
+        "dogName": "Limekiln Chic",
+        "rank": 5,
+        "betfairOdds": 27
+      },
+      {
+        "dogName": "Connors Bullet",
+        "rank": 6,
+        "betfairOdds": 2.34
+      },
+      {
+        "dogName": "Donishall Dolly",
+        "rank": 3,
+        "betfairOdds": 7.6
+      }
+    ]
+  },
+  {
+    "raceId": 1047516,
+    "date": "2024-06-20",
+    "distance": 462,
+    "grade": "A5",
+    "time": "16:47:00",
+    "track": "Kinsley",
+    "currentBalance": 214.16,
+    "profit": 7.08,
+    "dogs": [
+      {
+        "dogName": "Millrose Kenny",
+        "rank": 1,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "Brosna Suzy",
+        "rank": 2,
+        "betfairOdds": 3.25
+      },
+      {
+        "dogName": "Lynseys Rose",
+        "rank": 3,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Ballymac Quiz",
+        "rank": 4,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Ratchies Layla",
+        "rank": 6,
+        "betfairOdds": 14.5
+      },
+      {
+        "dogName": "Popular Rosin",
+        "rank": 5,
+        "betfairOdds": 14
+      }
+    ]
+  },
+  {
+    "raceId": 1047571,
+    "date": "2024-06-20",
+    "distance": 380,
+    "grade": "A4",
+    "time": "16:53:00",
+    "track": "Crayford",
+    "currentBalance": 218.06,
+    "profit": 9.03,
+    "dogs": [
+      {
+        "dogName": "Gringos On Tune",
+        "rank": 1,
+        "betfairOdds": 15.5
+      },
+      {
+        "dogName": "El Speedy",
+        "rank": 2,
+        "betfairOdds": 4.1
+      },
+      {
+        "dogName": "Moaning Mccoist",
+        "rank": 3,
+        "betfairOdds": 3
+      },
+      {
+        "dogName": "Faraway Sunset",
+        "rank": 4,
+        "betfairOdds": 14.5
+      },
+      {
+        "dogName": "Snoozing Star",
+        "rank": 5,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Coolemore Penny",
+        "rank": 6,
+        "betfairOdds": 5.1
+      }
+    ]
+  },
+  {
+    "raceId": 1047493,
+    "date": "2024-06-20",
+    "distance": 275,
+    "grade": "D4",
+    "time": "16:59:00",
+    "track": "Perry Barr",
+    "currentBalance": 218.06,
+    "profit": 9.03,
+    "dogs": [
+      {
+        "dogName": "Ridgemount Lucky",
+        "rank": 1,
+        "betfairOdds": 25
+      },
+      {
+        "dogName": "Burnpark Flame",
+        "rank": 2,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Society Paddy",
+        "rank": 3,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Shortwood Uno",
+        "rank": 4,
+        "betfairOdds": 2.08
+      },
+      {
+        "dogName": "Hidden Foxy",
+        "rank": 5,
+        "betfairOdds": 5.2
+      },
+      {
+        "dogName": "Peridot",
+        "rank": 6,
+        "betfairOdds": 12
+      }
+    ]
+  },
+  {
+    "raceId": 1047517,
+    "date": "2024-06-20",
+    "distance": 462,
+    "grade": "A7",
+    "time": "17:06:00",
+    "track": "Kinsley",
+    "currentBalance": 221.96,
+    "profit": 10.98,
+    "dogs": [
+      {
+        "dogName": "Vancouver Doug",
+        "rank": 4,
+        "betfairOdds": 4.2
+      },
+      {
+        "dogName": "Yesterday",
+        "rank": 5,
+        "betfairOdds": 3.55
+      },
+      {
+        "dogName": "Barra Leo",
+        "rank": 6,
+        "betfairOdds": 16.5
+      },
+      {
+        "dogName": "Fearmore Colin",
+        "rank": 1,
+        "betfairOdds": 5.9
+      },
+      {
+        "dogName": "Jaxx Casparon",
+        "rank": 3,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Turree Treaty",
+        "rank": 2,
+        "betfairOdds": 11
+      }
+    ]
+  },
+  {
+    "raceId": 1047572,
+    "date": "2024-06-20",
+    "distance": 540,
+    "grade": "S1",
+    "time": "17:12:00",
+    "track": "Crayford",
+    "currentBalance": 225.86,
+    "profit": 12.93,
+    "dogs": [
+      {
+        "dogName": "Kellsboro Ava",
+        "rank": 1,
+        "betfairOdds": 3.4
+      },
+      {
+        "dogName": "Roseville Best",
+        "rank": 2,
+        "betfairOdds": 36
+      },
+      {
+        "dogName": "Swift Alien",
+        "rank": 3,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Vixons Gambler",
+        "rank": 5,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Devon Dolly",
+        "rank": 4,
+        "betfairOdds": 2.54
+      }
+    ]
+  },
+  {
+    "raceId": 1047494,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A2",
+    "time": "17:18:00",
+    "track": "Perry Barr",
+    "currentBalance": 229.76,
+    "profit": 14.88,
+    "dogs": [
+      {
+        "dogName": "Lightfoot Sparta",
+        "rank": 1,
+        "betfairOdds": 3.65
+      },
+      {
+        "dogName": "Sherry Cream",
+        "rank": 2,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Magical Orlando",
+        "rank": 3,
+        "betfairOdds": 5.3
+      },
+      {
+        "dogName": "Headford Mike",
+        "rank": 4,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Chubbys Whisper",
+        "rank": 5,
+        "betfairOdds": 5.2
+      }
+    ]
+  },
+  {
+    "raceId": 1047550,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "Mixed",
+    "time": "17:21:00",
+    "track": "Towcester",
+    "currentBalance": 233.66,
+    "profit": 16.83,
+    "dogs": [
+      {
+        "dogName": "Greencroft Annie",
+        "rank": 1,
+        "betfairOdds": 3.5
+      },
+      {
+        "dogName": "Salacres Paige",
+        "rank": 2,
+        "betfairOdds": 3.8
+      },
+      {
+        "dogName": "Coolemore North",
+        "rank": 3,
+        "betfairOdds": 9
+      },
+      {
+        "dogName": "Makeit Spot",
+        "rank": 5,
+        "betfairOdds": 5.8
+      },
+      {
+        "dogName": "Lillibeth Royale",
+        "rank": 4,
+        "betfairOdds": 8.8
+      },
+      {
+        "dogName": "Salacres Liam",
+        "rank": 6,
+        "betfairOdds": 14
+      }
+    ]
+  },
+  {
+    "raceId": 1047518,
+    "date": "2024-06-20",
+    "distance": 462,
+    "grade": "A3",
+    "time": "17:24:00",
+    "track": "Kinsley",
+    "currentBalance": 233.66,
+    "profit": 16.83,
+    "dogs": [
+      {
+        "dogName": "Sunset Rocket",
+        "rank": 1,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Lunar Display",
+        "rank": 4,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Follow Suit",
+        "rank": 2,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Ballydaniel Cat",
+        "rank": 5,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Highview Amy",
+        "rank": 6,
+        "betfairOdds": 3.75
+      },
+      {
+        "dogName": "Imokilly Madam",
+        "rank": 3,
+        "betfairOdds": 8.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047573,
+    "date": "2024-06-20",
+    "distance": 380,
+    "grade": "A7",
+    "time": "17:31:00",
+    "track": "Crayford",
+    "currentBalance": 237.56,
+    "profit": 18.78,
+    "dogs": [
+      {
+        "dogName": "Arrigle Jessie",
+        "rank": 1,
+        "betfairOdds": 3.2
+      },
+      {
+        "dogName": "Tommys Legacy",
+        "rank": 2,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Moaning Kourtney",
+        "rank": 3,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Dark Blaze",
+        "rank": 4,
+        "betfairOdds": 9.2
+      },
+      {
+        "dogName": "Gizmo Bahoo",
+        "rank": 5,
+        "betfairOdds": 3
+      }
+    ]
+  },
+  {
+    "raceId": 1047495,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A7",
+    "time": "17:37:00",
+    "track": "Perry Barr",
+    "currentBalance": 241.46,
+    "profit": 20.73,
+    "dogs": [
+      {
+        "dogName": "Avongate Adonis",
+        "rank": 1,
+        "betfairOdds": 4
+      },
+      {
+        "dogName": "Porthall Tandon",
+        "rank": 2,
+        "betfairOdds": 5.2
+      },
+      {
+        "dogName": "Taffy Disney",
+        "rank": 3,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Bogger Scallywag",
+        "rank": 4,
+        "betfairOdds": 3.6
+      },
+      {
+        "dogName": "Drumcrow Eric",
+        "rank": 5,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Ballycian Bubba",
+        "rank": 6,
+        "betfairOdds": 13.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047551,
+    "date": "2024-06-20",
+    "distance": 270,
+    "grade": "D2",
+    "time": "17:39:00",
+    "track": "Towcester",
+    "currentBalance": 245.36,
+    "profit": 22.68,
+    "dogs": [
+      {
+        "dogName": "Money Pit",
+        "rank": 1,
+        "betfairOdds": 4.2
+      },
+      {
+        "dogName": "Makeit Chiffon",
+        "rank": 3,
+        "betfairOdds": 7
+      },
+      {
+        "dogName": "Mind The Mouse",
+        "rank": 2,
+        "betfairOdds": 3.6
+      },
+      {
+        "dogName": "Salacres Herbert",
+        "rank": 4,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Salacres Slater",
+        "rank": 5,
+        "betfairOdds": 17
+      },
+      {
+        "dogName": "Salacres Maybach",
+        "rank": 6,
+        "betfairOdds": 16
+      }
+    ]
+  },
+  {
+    "raceId": 1047519,
+    "date": "2024-06-20",
+    "distance": 268,
+    "grade": "D2",
+    "time": "17:43:00",
+    "track": "Kinsley",
+    "currentBalance": 245.36,
+    "profit": 22.68,
+    "dogs": [
+      {
+        "dogName": "Clondouglas May",
+        "rank": 1,
+        "betfairOdds": 3.75
+      },
+      {
+        "dogName": "Monadreen Joy",
+        "rank": 2,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Moanteen Federer",
+        "rank": 3,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "Sunset Daybreak",
+        "rank": 4,
+        "betfairOdds": 9.2
+      },
+      {
+        "dogName": "Hollywell Hero",
+        "rank": 6,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "De Girl Annie",
+        "rank": 5,
+        "betfairOdds": 10.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047574,
+    "date": "2024-06-20",
+    "distance": 380,
+    "grade": "A2",
+    "time": "17:49:00",
+    "track": "Crayford",
+    "currentBalance": 249.26,
+    "profit": 24.63,
+    "dogs": [
+      {
+        "dogName": "Swift Accolade",
+        "rank": 2,
+        "betfairOdds": 3.55
+      },
+      {
+        "dogName": "Dal Princess",
+        "rank": 4,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "El Rapido",
+        "rank": 5,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "Unleash Skippy",
+        "rank": 3,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Reaveys Rebel",
+        "rank": 1,
+        "betfairOdds": 8
+      }
+    ]
+  },
+  {
+    "raceId": 1047552,
+    "date": "2024-06-20",
+    "distance": 270,
+    "grade": "D3",
+    "time": "17:54:00",
+    "track": "Towcester",
+    "currentBalance": 249.26,
+    "profit": 24.63,
+    "dogs": [
+      {
+        "dogName": "Salacres Harold",
+        "rank": 4,
+        "betfairOdds": 60
+      },
+      {
+        "dogName": "Bell Rock",
+        "rank": 3,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Savana Bagheera",
+        "rank": 2,
+        "betfairOdds": 25
+      },
+      {
+        "dogName": "Salacres Harry",
+        "rank": 5,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Makeit Posh Girl",
+        "rank": 1,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Salacres Pacino",
+        "rank": 6,
+        "betfairOdds": 2.04
+      }
+    ]
+  },
+  {
+    "raceId": 1047496,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A8",
+    "time": "17:56:00",
+    "track": "Perry Barr",
+    "currentBalance": 249.26,
+    "profit": 24.63,
+    "dogs": [
+      {
+        "dogName": "Lady Lazarus",
+        "rank": 2,
+        "betfairOdds": 3.05
+      },
+      {
+        "dogName": "Swift Zebu",
+        "rank": 3,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Rathsilla Vader",
+        "rank": 4,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Rathsilla Leia",
+        "rank": 5,
+        "betfairOdds": 14.5
+      },
+      {
+        "dogName": "Beannacht Ina",
+        "rank": 6,
+        "betfairOdds": 5.7
+      },
+      {
+        "dogName": "Bit View Cody",
+        "rank": 1,
+        "betfairOdds": 7.6
+      }
+    ]
+  },
+  {
+    "raceId": 1047520,
+    "date": "2024-06-20",
+    "distance": 268,
+    "grade": "D4",
+    "time": "18:02:00",
+    "track": "Kinsley",
+    "currentBalance": 253.16,
+    "profit": 26.58,
+    "dogs": [
+      {
+        "dogName": "Ineedabreak",
+        "rank": 1,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Vanilla Slice",
+        "rank": 2,
+        "betfairOdds": 3.2
+      },
+      {
+        "dogName": "Missing Chances",
+        "rank": 3,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Glenvale Beau",
+        "rank": 4,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Divo",
+        "rank": 5,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Burgess Lana",
+        "rank": 6,
+        "betfairOdds": 11
+      }
+    ]
+  },
+  {
+    "raceId": 1046486,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A1",
+    "time": "18:08:00",
+    "track": "Hove",
+    "currentBalance": 253.16,
+    "profit": 26.58,
+    "dogs": [
+      {
+        "dogName": "Bunny Show",
+        "rank": 1,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Turkish Lira",
+        "rank": 2,
+        "betfairOdds": 3.6
+      },
+      {
+        "dogName": "Avarua Timmy",
+        "rank": 3,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "Burrows Ruby",
+        "rank": 4,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Crossfield Maxi",
+        "rank": 5,
+        "betfairOdds": 4.3
+      }
+    ]
+  },
+  {
+    "raceId": 1047554,
+    "date": "2024-06-20",
+    "distance": 460,
+    "grade": "OR3",
+    "time": "18:11:00",
+    "track": "Valley",
+    "currentBalance": 244.16,
+    "profit": 22.08,
+    "dogs": [
+      {
+        "dogName": "Gusty Max",
+        "rank": 2,
+        "betfairOdds": 3.4
+      },
+      {
+        "dogName": "Skerries Mile",
+        "rank": 4,
+        "betfairOdds": 16.5
+      },
+      {
+        "dogName": "Swift Elm",
+        "rank": 3,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Deelish Macy",
+        "rank": 5,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Bluetooth",
+        "rank": 1,
+        "betfairOdds": 3.25
+      }
+    ]
+  },
+  {
+    "raceId": 1047521,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A8",
+    "time": "18:14:00",
+    "track": "Monmore",
+    "currentBalance": 248.06,
+    "profit": 24.03,
+    "dogs": [
+      {
+        "dogName": "Aero Dignity",
+        "rank": 3,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "Bengarth Blaise",
+        "rank": 2,
+        "betfairOdds": 8.6
+      },
+      {
+        "dogName": "Kelseys Princess",
+        "rank": 4,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Vixons Beauty",
+        "rank": 5,
+        "betfairOdds": 18.5
+      },
+      {
+        "dogName": "Yankee Story",
+        "rank": 6,
+        "betfairOdds": 16.5
+      },
+      {
+        "dogName": "Blastoff Josifa",
+        "rank": 1,
+        "betfairOdds": 2.36
+      }
+    ]
+  },
+  {
+    "raceId": 1046487,
+    "date": "2024-06-20",
+    "distance": 285,
+    "grade": "D3",
+    "time": "18:26:00",
+    "track": "Hove",
+    "currentBalance": 248.06,
+    "profit": 24.03,
+    "dogs": [
+      {
+        "dogName": "Rapido Willow",
+        "rank": 5,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Natural World",
+        "rank": 4,
+        "betfairOdds": 3.45
+      },
+      {
+        "dogName": "Optic Rambo",
+        "rank": 1,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Glory Tiger",
+        "rank": 2,
+        "betfairOdds": 2.36
+      },
+      {
+        "dogName": "Zoomey Polina",
+        "rank": 3,
+        "betfairOdds": 20
+      }
+    ]
+  },
+  {
+    "raceId": 1047555,
+    "date": "2024-06-20",
+    "distance": 460,
+    "grade": "OR",
+    "time": "18:29:00",
+    "track": "Valley",
+    "currentBalance": 248.06,
+    "profit": 24.03,
+    "dogs": [
+      {
+        "dogName": "Santas Ranger",
+        "rank": 1,
+        "betfairOdds": 21
+      },
+      {
+        "dogName": "Craiobhin Skip",
+        "rank": 5,
+        "betfairOdds": 8.6
+      },
+      {
+        "dogName": "Chocolatito",
+        "rank": 4,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Random Vicky",
+        "rank": 2,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Droopys Priority",
+        "rank": 3,
+        "betfairOdds": 1.55
+      }
+    ]
+  },
+  {
+    "raceId": 1047522,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "mixed",
+    "time": "18:31:00",
+    "track": "Monmore",
+    "currentBalance": 248.06,
+    "profit": 24.03,
+    "dogs": [
+      {
+        "dogName": "Noduff Flamingo",
+        "rank": 1,
+        "betfairOdds": 2.42
+      },
+      {
+        "dogName": "Winterfield Hope",
+        "rank": 2,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Glenduff Gracie",
+        "rank": 4,
+        "betfairOdds": 8.2
+      },
+      {
+        "dogName": "Heathers Charm",
+        "rank": 5,
+        "betfairOdds": 9.6
+      },
+      {
+        "dogName": "Vixons Finbo",
+        "rank": 6,
+        "betfairOdds": 10.5
+      },
+      {
+        "dogName": "Elderberry Misty",
+        "rank": 3,
+        "betfairOdds": 6.6
+      }
+    ]
+  },
+  {
+    "raceId": 1047289,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A2",
+    "time": "18:37:00",
+    "track": "Newcastle",
+    "currentBalance": 232.06,
+    "profit": 16.03,
+    "dogs": [
+      {
+        "dogName": "Eleveneleven",
+        "rank": 2,
+        "betfairOdds": 3.05
+      },
+      {
+        "dogName": "Golden City",
+        "rank": 1,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "Droopys Odds On",
+        "rank": 3,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Bramble Trippier",
+        "rank": 3,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Amaze Me Mel",
+        "rank": 5,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Westforth Ceejay",
+        "rank": 6,
+        "betfairOdds": 8.2
+      }
+    ]
+  },
+  {
+    "raceId": 1046488,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "OR",
+    "time": "18:42:00",
+    "track": "Hove",
+    "currentBalance": 232.06,
+    "profit": 16.03,
+    "dogs": [
+      {
+        "dogName": "Fire And Ice",
+        "rank": 1,
+        "betfairOdds": 2
+      },
+      {
+        "dogName": "Gingers Shelby",
+        "rank": 6,
+        "betfairOdds": 13.5
+      },
+      {
+        "dogName": "Quiet Kanye",
+        "rank": 2,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Rapido Ali",
+        "rank": 3,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Golden Wings",
+        "rank": 5,
+        "betfairOdds": 65
+      },
+      {
+        "dogName": "Lucky Sevens",
+        "rank": 4,
+        "betfairOdds": 6.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047203,
+    "date": "2024-06-20",
+    "distance": 476,
+    "grade": "A9",
+    "time": "18:44:00",
+    "track": "Swindon",
+    "currentBalance": 235.96,
+    "profit": 17.98,
+    "dogs": [
+      {
+        "dogName": "Ballyregan Niamh",
+        "rank": 1,
+        "betfairOdds": 3.95
+      },
+      {
+        "dogName": "Confey Gold",
+        "rank": 3,
+        "betfairOdds": 9.4
+      },
+      {
+        "dogName": "Unknown Lily",
+        "rank": 2,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Mohican Banana",
+        "rank": 4,
+        "betfairOdds": 9.4
+      },
+      {
+        "dogName": "Rapido Helga",
+        "rank": 5,
+        "betfairOdds": 2.78
+      }
+    ]
+  },
+  {
+    "raceId": 1047556,
+    "date": "2024-06-20",
+    "distance": 460,
+    "grade": "A4",
+    "time": "18:46:00",
+    "track": "Valley",
+    "currentBalance": 239.86,
+    "profit": 19.93,
+    "dogs": [
+      {
+        "dogName": "Liberty Bluebell",
+        "rank": 1,
+        "betfairOdds": 3.9
+      },
+      {
+        "dogName": "Pandy Jenson",
+        "rank": 3,
+        "betfairOdds": 9.4
+      },
+      {
+        "dogName": "Mid West Daisy",
+        "rank": 2,
+        "betfairOdds": 9.4
+      },
+      {
+        "dogName": "Smoking Sid",
+        "rank": 6,
+        "betfairOdds": 5.7
+      },
+      {
+        "dogName": "Afan Louie",
+        "rank": 4,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "County Jail",
+        "rank": 5,
+        "betfairOdds": 21
+      }
+    ]
+  },
+  {
+    "raceId": 1047290,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A4",
+    "time": "18:53:00",
+    "track": "Newcastle",
+    "currentBalance": 239.86,
+    "profit": 19.93,
+    "dogs": [
+      {
+        "dogName": "Alnwick Fire",
+        "rank": 1,
+        "betfairOdds": 3.9
+      },
+      {
+        "dogName": "Bramble Floki",
+        "rank": 2,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "All On Ice",
+        "rank": 2,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Blackhousewillow",
+        "rank": 4,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Popper Mason",
+        "rank": 5,
+        "betfairOdds": 9.2
+      }
+    ]
+  },
+  {
+    "raceId": 1046489,
+    "date": "2024-06-20",
+    "distance": 285,
+    "grade": "OR",
+    "time": "18:59:00",
+    "track": "Hove",
+    "currentBalance": 243.76,
+    "profit": 21.88,
+    "dogs": [
+      {
+        "dogName": "Moustows Muttley",
+        "rank": 1,
+        "betfairOdds": 3.2
+      },
+      {
+        "dogName": "Watch The Limo",
+        "rank": 2,
+        "betfairOdds": 16
+      },
+      {
+        "dogName": "Hopes Knight",
+        "rank": 3,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "Paradise Thunder",
+        "rank": 4,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Distant Cara",
+        "rank": 5,
+        "betfairOdds": 3.25
+      }
+    ]
+  },
+  {
+    "raceId": 1047204,
+    "date": "2024-06-20",
+    "distance": 262,
+    "grade": "D4",
+    "time": "19:01:00",
+    "track": "Swindon",
+    "currentBalance": 233.56,
+    "profit": 16.78,
+    "dogs": [
+      {
+        "dogName": "Carefree Pal",
+        "rank": 1,
+        "betfairOdds": 3.55
+      },
+      {
+        "dogName": "Ashway Pebbles",
+        "rank": 3,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Archgrove Lucy",
+        "rank": 5,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Blue Llama",
+        "rank": 4,
+        "betfairOdds": 30
+      },
+      {
+        "dogName": "Teddy Blue",
+        "rank": 2,
+        "betfairOdds": 2.08
+      }
+    ]
+  },
+  {
+    "raceId": 1047557,
+    "date": "2024-06-20",
+    "distance": 260,
+    "grade": "D2",
+    "time": "19:04:00",
+    "track": "Valley",
+    "currentBalance": 233.56,
+    "profit": 16.78,
+    "dogs": [
+      {
+        "dogName": "Miltown Hope",
+        "rank": 2,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Regionaldirector",
+        "rank": 3,
+        "betfairOdds": 48
+      },
+      {
+        "dogName": "Missy Do Do",
+        "rank": 4,
+        "betfairOdds": 17.5
+      },
+      {
+        "dogName": "Kelseys Saphire",
+        "rank": 5,
+        "betfairOdds": 29
+      },
+      {
+        "dogName": "On The Sod",
+        "rank": 6,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Skerries Walk",
+        "rank": 1,
+        "betfairOdds": 1.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047524,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A4",
+    "time": "19:06:00",
+    "track": "Monmore",
+    "currentBalance": 237.46,
+    "profit": 18.73,
+    "dogs": [
+      {
+        "dogName": "Swift Fagan",
+        "rank": 1,
+        "betfairOdds": 15
+      },
+      {
+        "dogName": "Bert Ted",
+        "rank": 2,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Aztec Empire",
+        "rank": 5,
+        "betfairOdds": 2.56
+      },
+      {
+        "dogName": "Plaza Toni",
+        "rank": 3,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Trinity Bestie",
+        "rank": 4,
+        "betfairOdds": 5
+      }
+    ]
+  },
+  {
+    "raceId": 1047291,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A2",
+    "time": "19:11:00",
+    "track": "Newcastle",
+    "currentBalance": 237.46,
+    "profit": 18.73,
+    "dogs": [
+      {
+        "dogName": "Maxi On Fire",
+        "rank": 3,
+        "betfairOdds": 1.88
+      },
+      {
+        "dogName": "Bluebell Teddy",
+        "rank": 6,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Bit View Salah",
+        "rank": 4,
+        "betfairOdds": 21
+      },
+      {
+        "dogName": "Bramble Skylar",
+        "rank": 5,
+        "betfairOdds": 9.8
+      },
+      {
+        "dogName": "Bramble Tonali",
+        "rank": 1,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "A Bit Of Beth",
+        "rank": 2,
+        "betfairOdds": 9.2
+      }
+    ]
+  },
+  {
+    "raceId": 1046490,
+    "date": "2024-06-20",
+    "distance": 695,
+    "grade": "OR",
+    "time": "19:16:00",
+    "track": "Hove",
+    "currentBalance": 237.46,
+    "profit": 18.73,
+    "dogs": [
+      {
+        "dogName": "Saint Maga",
+        "rank": 1,
+        "betfairOdds": 1.78
+      },
+      {
+        "dogName": "Avarua Jilly",
+        "rank": 2,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Join In",
+        "rank": 3,
+        "betfairOdds": 7
+      },
+      {
+        "dogName": "Romeo Sparta",
+        "rank": 4,
+        "betfairOdds": 14
+      },
+      {
+        "dogName": "Miss Bee United",
+        "rank": 5,
+        "betfairOdds": 14.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047525,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A9",
+    "time": "19:22:00",
+    "track": "Monmore",
+    "currentBalance": 241.36,
+    "profit": 20.68,
+    "dogs": [
+      {
+        "dogName": "Rattling Bobby",
+        "rank": 2,
+        "betfairOdds": 2.92
+      },
+      {
+        "dogName": "Knockroe Tom",
+        "rank": 3,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Adams Anvil",
+        "rank": 4,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Zoos Naomi",
+        "rank": 5,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Farloe Bono",
+        "rank": 1,
+        "betfairOdds": 5.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047558,
+    "date": "2024-06-20",
+    "distance": 460,
+    "grade": "A2",
+    "time": "19:24:00",
+    "track": "Valley",
+    "currentBalance": 245.26,
+    "profit": 22.63,
+    "dogs": [
+      {
+        "dogName": "Affleck Airborne",
+        "rank": 2,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "Quare Diva",
+        "rank": 1,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Shes A Dreamer",
+        "rank": 5,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Southfield Finch",
+        "rank": 6,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Granda Rodge",
+        "rank": 4,
+        "betfairOdds": 5.8
+      },
+      {
+        "dogName": "Cracker Ally",
+        "rank": 3,
+        "betfairOdds": 5.5
+      }
+    ]
+  },
+  {
+    "raceId": 1046491,
+    "date": "2024-06-20",
+    "distance": 695,
+    "grade": "OR",
+    "time": "19:33:00",
+    "track": "Hove",
+    "currentBalance": 245.26,
+    "profit": 22.63,
+    "dogs": [
+      {
+        "dogName": "Untold Florin",
+        "rank": 1,
+        "betfairOdds": 8.8
+      },
+      {
+        "dogName": "Seasons Chelm",
+        "rank": 2,
+        "betfairOdds": 55
+      },
+      {
+        "dogName": "Antigua Elsa",
+        "rank": 3,
+        "betfairOdds": 22
+      },
+      {
+        "dogName": "Queen Leona",
+        "rank": 4,
+        "betfairOdds": 1.23
+      },
+      {
+        "dogName": "Wiseacre Ranch",
+        "rank": 5,
+        "betfairOdds": 75
+      }
+    ]
+  },
+  {
+    "raceId": 1047206,
+    "date": "2024-06-20",
+    "distance": 476,
+    "grade": "A4",
+    "time": "19:36:00",
+    "track": "Swindon",
+    "currentBalance": 245.26,
+    "profit": 22.63,
+    "dogs": [
+      {
+        "dogName": "Follow Me Up",
+        "rank": 1,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Mohican Florence",
+        "rank": 2,
+        "betfairOdds": 8.6
+      },
+      {
+        "dogName": "Charmed Abbie",
+        "rank": 3,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Smurfs Bigchance",
+        "rank": 4,
+        "betfairOdds": 1.99
+      },
+      {
+        "dogName": "Daring Louie",
+        "rank": 5,
+        "betfairOdds": 110
+      },
+      {
+        "dogName": "Glencloy Guile",
+        "rank": 6,
+        "betfairOdds": 19
+      }
+    ]
+  },
+  {
+    "raceId": 1047526,
+    "date": "2024-06-20",
+    "distance": 264,
+    "grade": "D3",
+    "time": "19:39:00",
+    "track": "Monmore",
+    "currentBalance": 249.16,
+    "profit": 24.58,
+    "dogs": [
+      {
+        "dogName": "Winterfield Moo",
+        "rank": 1,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Elderberry Luna",
+        "rank": 2,
+        "betfairOdds": 14
+      },
+      {
+        "dogName": "Aero Bess",
+        "rank": 3,
+        "betfairOdds": 28
+      },
+      {
+        "dogName": "Sovereign Jet",
+        "rank": 4,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Sunset Diamond",
+        "rank": 5,
+        "betfairOdds": 3.95
+      },
+      {
+        "dogName": "Moanteen Balto",
+        "rank": 6,
+        "betfairOdds": 3.9
+      }
+    ]
+  },
+  {
+    "raceId": 1047559,
+    "date": "2024-06-20",
+    "distance": 260,
+    "grade": "D1",
+    "time": "19:42:00",
+    "track": "Valley",
+    "currentBalance": 249.16,
+    "profit": 24.58,
+    "dogs": [
+      {
+        "dogName": "Da Gruffalo",
+        "rank": 1,
+        "betfairOdds": 1.81
+      },
+      {
+        "dogName": "Le Rondel Fusee",
+        "rank": 2,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Tuesdays Special",
+        "rank": 3,
+        "betfairOdds": 7
+      },
+      {
+        "dogName": "Geneva Josie",
+        "rank": 5,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Battle Dan",
+        "rank": 4,
+        "betfairOdds": 22
+      }
+    ]
+  },
+  {
+    "raceId": 1047293,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A3",
+    "time": "19:44:00",
+    "track": "Newcastle",
+    "currentBalance": 238.56,
+    "profit": 19.28,
+    "dogs": [
+      {
+        "dogName": "Footfield Logan",
+        "rank": 1,
+        "betfairOdds": 3.65
+      },
+      {
+        "dogName": "Lightfoot Lewis",
+        "rank": 2,
+        "betfairOdds": 9
+      },
+      {
+        "dogName": "Marlfield Arteta",
+        "rank": 3,
+        "betfairOdds": 2.72
+      },
+      {
+        "dogName": "Bramble Allaby",
+        "rank": 4,
+        "betfairOdds": 18
+      },
+      {
+        "dogName": "Droopys Fit Bit",
+        "rank": 5,
+        "betfairOdds": 13.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047527,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A7",
+    "time": "19:56:00",
+    "track": "Monmore",
+    "currentBalance": 238.56,
+    "profit": 19.28,
+    "dogs": [
+      {
+        "dogName": "Hitthelids Juno",
+        "rank": 2,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "Ballygloss Magie",
+        "rank": 1,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "Light Up Lucy",
+        "rank": 4,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Twos Tricky",
+        "rank": 3,
+        "betfairOdds": 3.15
+      },
+      {
+        "dogName": "Signet Tigerlily",
+        "rank": 5,
+        "betfairOdds": 19
+      },
+      {
+        "dogName": "Pennys Donna",
+        "rank": 6,
+        "betfairOdds": 8.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047560,
+    "date": "2024-06-20",
+    "distance": 460,
+    "grade": "A1",
+    "time": "19:58:00",
+    "track": "Valley",
+    "currentBalance": 238.56,
+    "profit": 19.28,
+    "dogs": [
+      {
+        "dogName": "Tintown Halle",
+        "rank": 1,
+        "betfairOdds": 1.82
+      },
+      {
+        "dogName": "Icemans Pride",
+        "rank": 2,
+        "betfairOdds": 20
+      },
+      {
+        "dogName": "Luminous Breeze",
+        "rank": 5,
+        "betfairOdds": 22
+      },
+      {
+        "dogName": "Annual Nokia",
+        "rank": 3,
+        "betfairOdds": 4.5
+      },
+      {
+        "dogName": "Dianes Capaldi",
+        "rank": 4,
+        "betfairOdds": 7.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047294,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A4",
+    "time": "20:01:00",
+    "track": "Newcastle",
+    "currentBalance": 242.46,
+    "profit": 21.23,
+    "dogs": [
+      {
+        "dogName": "Blackhouse Buddy",
+        "rank": 3,
+        "betfairOdds": 3.65
+      },
+      {
+        "dogName": "Droopys Tatiana",
+        "rank": 1,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Tarryburn Onyx",
+        "rank": 2,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Bramble Charge",
+        "rank": 5,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Coolavanny Lucas",
+        "rank": 6,
+        "betfairOdds": 23
+      },
+      {
+        "dogName": "Fabulous Freyja",
+        "rank": 4,
+        "betfairOdds": 3.2
+      }
+    ]
+  },
+  {
+    "raceId": 1046493,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "OR",
+    "time": "20:07:00",
+    "track": "Hove",
+    "currentBalance": 242.46,
+    "profit": 21.23,
+    "dogs": [
+      {
+        "dogName": "De Pan Handler",
+        "rank": 1,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Nine Percent",
+        "rank": 2,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Clonmoyle Rockie",
+        "rank": 3,
+        "betfairOdds": 24
+      },
+      {
+        "dogName": "Sharp Butch",
+        "rank": 4,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Newinn Benni",
+        "rank": 6,
+        "betfairOdds": 1.84
+      }
+    ]
+  },
+  {
+    "raceId": 1047208,
+    "date": "2024-06-20",
+    "distance": 476,
+    "grade": "A8",
+    "time": "20:11:00",
+    "track": "Swindon",
+    "currentBalance": 231.26,
+    "profit": 15.63,
+    "dogs": [
+      {
+        "dogName": "Not Proper",
+        "rank": 1,
+        "betfairOdds": 3.8
+      },
+      {
+        "dogName": "Miracle In March",
+        "rank": 2,
+        "betfairOdds": 13.5
+      },
+      {
+        "dogName": "Small Sonya",
+        "rank": 3,
+        "betfairOdds": 5.9
+      },
+      {
+        "dogName": "Moanteen Breeze",
+        "rank": 4,
+        "betfairOdds": 9.6
+      },
+      {
+        "dogName": "Boherdota Paddy",
+        "rank": 5,
+        "betfairOdds": 2.56
+      }
+    ]
+  },
+  {
+    "raceId": 1047528,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A4",
+    "time": "20:13:00",
+    "track": "Monmore",
+    "currentBalance": 231.26,
+    "profit": 15.63,
+    "dogs": [
+      {
+        "dogName": "Wychwood Rose",
+        "rank": 1,
+        "betfairOdds": 3.05
+      },
+      {
+        "dogName": "Zari Whippy",
+        "rank": 4,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Fearsome Flora",
+        "rank": 3,
+        "betfairOdds": 18.5
+      },
+      {
+        "dogName": "Liberty Port",
+        "rank": 5,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Toems Mary",
+        "rank": 6,
+        "betfairOdds": 30
+      },
+      {
+        "dogName": "Signet Batman",
+        "rank": 2,
+        "betfairOdds": 4.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047561,
+    "date": "2024-06-20",
+    "distance": 260,
+    "grade": "D4",
+    "time": "20:16:00",
+    "track": "Valley",
+    "currentBalance": 231.26,
+    "profit": 15.63,
+    "dogs": [
+      {
+        "dogName": "Flomur Smokie",
+        "rank": 1,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Donie Kid",
+        "rank": 2,
+        "betfairOdds": 2.12
+      },
+      {
+        "dogName": "Scarty Fernandes",
+        "rank": 3,
+        "betfairOdds": 25
+      },
+      {
+        "dogName": "Pandy Chelsea",
+        "rank": 4,
+        "betfairOdds": 95
+      },
+      {
+        "dogName": "Eastview Salah",
+        "rank": 5,
+        "betfairOdds": 22
+      },
+      {
+        "dogName": "Flomur Fiona",
+        "rank": 6,
+        "betfairOdds": 13.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047295,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A5",
+    "time": "20:19:00",
+    "track": "Newcastle",
+    "currentBalance": 231.26,
+    "profit": 15.63,
+    "dogs": [
+      {
+        "dogName": "A Bit Of Betsy",
+        "rank": 1,
+        "betfairOdds": 20
+      },
+      {
+        "dogName": "Hey Duke",
+        "rank": 3,
+        "betfairOdds": 1.98
+      },
+      {
+        "dogName": "Alnwick United",
+        "rank": 5,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "A Bit Of Nala",
+        "rank": 4,
+        "betfairOdds": 13
+      },
+      {
+        "dogName": "Footfield Scar",
+        "rank": 1,
+        "betfairOdds": 18.5
+      },
+      {
+        "dogName": "Do It Zara",
+        "rank": 6,
+        "betfairOdds": 9.2
+      }
+    ]
+  },
+  {
+    "raceId": 1046494,
+    "date": "2024-06-20",
+    "distance": 515,
+    "grade": "",
+    "time": "20:24:00",
+    "track": "Hove",
+    "currentBalance": 235.16,
+    "profit": 17.58,
+    "dogs": [
+      {
+        "dogName": "Ower Mystery",
+        "rank": 1,
+        "betfairOdds": 1.69
+      },
+      {
+        "dogName": "Burrows Sapphire",
+        "rank": 2,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Outback Abigail",
+        "rank": 3,
+        "betfairOdds": 85
+      },
+      {
+        "dogName": "Swift Radiantly",
+        "rank": 4,
+        "betfairOdds": 16.5
+      },
+      {
+        "dogName": "Hopes Melody",
+        "rank": 5,
+        "betfairOdds": 46
+      },
+      {
+        "dogName": "Senahel Pikachu",
+        "rank": 6,
+        "betfairOdds": 11.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047209,
+    "date": "2024-06-20",
+    "distance": 262,
+    "grade": "D4",
+    "time": "20:28:00",
+    "track": "Swindon",
+    "currentBalance": 239.06,
+    "profit": 19.53,
+    "dogs": [
+      {
+        "dogName": "Inzane Fonz",
+        "rank": 3,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Castell Pam",
+        "rank": 4,
+        "betfairOdds": 9
+      },
+      {
+        "dogName": "Monamolin Lucky",
+        "rank": 5,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "Fitzys Panther",
+        "rank": 2,
+        "betfairOdds": 5.5
+      },
+      {
+        "dogName": "Dunbar Tess",
+        "rank": 1,
+        "betfairOdds": 2.84
+      }
+    ]
+  },
+  {
+    "raceId": 1047562,
+    "date": "2024-06-20",
+    "distance": 260,
+    "grade": "D2",
+    "time": "20:34:00",
+    "track": "Valley",
+    "currentBalance": 239.06,
+    "profit": 19.53,
+    "dogs": [
+      {
+        "dogName": "Gypsy Woman",
+        "rank": 5,
+        "betfairOdds": 19
+      },
+      {
+        "dogName": "Pookies Julia",
+        "rank": 6,
+        "betfairOdds": 29
+      },
+      {
+        "dogName": "Lincoln Lawyer",
+        "rank": 1,
+        "betfairOdds": 1.69
+      },
+      {
+        "dogName": "Leahs Bess",
+        "rank": 4,
+        "betfairOdds": 5.1
+      },
+      {
+        "dogName": "Step Right In",
+        "rank": 2,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Captainannie",
+        "rank": 3,
+        "betfairOdds": 20
+      }
+    ]
+  },
+  {
+    "raceId": 1046495,
+    "date": "2024-06-20",
+    "distance": 515,
+    "grade": "OR3",
+    "time": "20:41:00",
+    "track": "Hove",
+    "currentBalance": 242.96,
+    "profit": 21.48,
+    "dogs": [
+      {
+        "dogName": "Untold Taka",
+        "rank": 1,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Nowitsmyturn",
+        "rank": 2,
+        "betfairOdds": 1.87
+      },
+      {
+        "dogName": "Clairkeith Prinz",
+        "rank": 3,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Drumdoit Chief",
+        "rank": 4,
+        "betfairOdds": 25
+      },
+      {
+        "dogName": "Lively Lauren",
+        "rank": 5,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Broadstrand Noah",
+        "rank": 6,
+        "betfairOdds": 95
+      }
+    ]
+  },
+  {
+    "raceId": 1047210,
+    "date": "2024-06-20",
+    "distance": 476,
+    "grade": "A3",
+    "time": "20:44:00",
+    "track": "Swindon",
+    "currentBalance": 246.86,
+    "profit": 23.43,
+    "dogs": [
+      {
+        "dogName": "Ashway Maybe",
+        "rank": 1,
+        "betfairOdds": 1.95
+      },
+      {
+        "dogName": "Minglers Dipper",
+        "rank": 2,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Bluejig Turbo",
+        "rank": 4,
+        "betfairOdds": 3.95
+      },
+      {
+        "dogName": "Barnfield Crest",
+        "rank": 3,
+        "betfairOdds": 17.5
+      },
+      {
+        "dogName": "Arthur Pickle",
+        "rank": 5,
+        "betfairOdds": 22
+      }
+    ]
+  },
+  {
+    "raceId": 1047297,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A4",
+    "time": "20:54:00",
+    "track": "Newcastle",
+    "currentBalance": 246.86,
+    "profit": 23.43,
+    "dogs": [
+      {
+        "dogName": "Alnwick Saddle",
+        "rank": 1,
+        "betfairOdds": 2.64
+      },
+      {
+        "dogName": "Jayque Dazzle",
+        "rank": 3,
+        "betfairOdds": 16.5
+      },
+      {
+        "dogName": "Swift Tia",
+        "rank": 4,
+        "betfairOdds": 8.2
+      },
+      {
+        "dogName": "Nicoles Bluebell",
+        "rank": 5,
+        "betfairOdds": 14
+      },
+      {
+        "dogName": "Aegis Big Paul",
+        "rank": 2,
+        "betfairOdds": 11
+      }
+    ]
+  },
+  {
+    "raceId": 1046496,
+    "date": "2024-06-20",
+    "distance": 515,
+    "grade": "OR3",
+    "time": "20:59:00",
+    "track": "Hove",
+    "currentBalance": 246.86,
+    "profit": 23.43,
+    "dogs": [
+      {
+        "dogName": "Carols Hero",
+        "rank": 1,
+        "betfairOdds": 32
+      },
+      {
+        "dogName": "Breton Brigitte",
+        "rank": 2,
+        "betfairOdds": 13
+      },
+      {
+        "dogName": "Joes Sagar",
+        "rank": 3,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Rioja Woody",
+        "rank": 4,
+        "betfairOdds": 2.04
+      },
+      {
+        "dogName": "Noirs News",
+        "rank": 5,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Gingers Rubin",
+        "rank": 6,
+        "betfairOdds": 7.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047211,
+    "date": "2024-06-20",
+    "distance": 476,
+    "grade": "OR",
+    "time": "21:02:00",
+    "track": "Swindon",
+    "currentBalance": 246.86,
+    "profit": 23.43,
+    "dogs": [
+      {
+        "dogName": "Ballymac Loca",
+        "rank": 1,
+        "betfairOdds": 3.6
+      },
+      {
+        "dogName": "Mister Donovan",
+        "rank": 3,
+        "betfairOdds": 5.5
+      },
+      {
+        "dogName": "Made It Good",
+        "rank": 2,
+        "betfairOdds": 8.2
+      },
+      {
+        "dogName": "Billericay Joe",
+        "rank": 4,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Ballygraigue Ted",
+        "rank": 5,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Droopys Monica",
+        "rank": 6,
+        "betfairOdds": 3.95
+      }
+    ]
+  },
+  {
+    "raceId": 1047531,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A8",
+    "time": "21:04:00",
+    "track": "Monmore",
+    "currentBalance": 250.76,
+    "profit": 25.38,
+    "dogs": [
+      {
+        "dogName": "Relentless Ajay",
+        "rank": 1,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Crossfield Rach",
+        "rank": 4,
+        "betfairOdds": 18.5
+      },
+      {
+        "dogName": "Macs Me Name",
+        "rank": 3,
+        "betfairOdds": 2.52
+      },
+      {
+        "dogName": "Woe Lisa",
+        "rank": 5,
+        "betfairOdds": 40
+      },
+      {
+        "dogName": "Winterfield Trix",
+        "rank": 2,
+        "betfairOdds": 3.4
+      }
+    ]
+  },
+  {
+    "raceId": 1046497,
+    "date": "2024-06-20",
+    "distance": 500,
+    "grade": "A1",
+    "time": "21:16:00",
+    "track": "Hove",
+    "currentBalance": 250.76,
+    "profit": 25.38,
+    "dogs": [
+      {
+        "dogName": "Kelvins Hat",
+        "rank": 1,
+        "betfairOdds": 2.22
+      },
+      {
+        "dogName": "Droopys Flotus",
+        "rank": 2,
+        "betfairOdds": 36
+      },
+      {
+        "dogName": "Blueisthecolor",
+        "rank": 3,
+        "betfairOdds": 16
+      },
+      {
+        "dogName": "Hopes Ompaloompa",
+        "rank": 4,
+        "betfairOdds": 5.7
+      },
+      {
+        "dogName": "Chelms Vickie",
+        "rank": 5,
+        "betfairOdds": 3.9
+      },
+      {
+        "dogName": "Ower Girl Ziggy",
+        "rank": 6,
+        "betfairOdds": 19
+      }
+    ]
+  },
+  {
+    "raceId": 1047212,
+    "date": "2024-06-20",
+    "distance": 476,
+    "grade": "A5",
+    "time": "21:20:00",
+    "track": "Swindon",
+    "currentBalance": 254.66,
+    "profit": 27.33,
+    "dogs": [
+      {
+        "dogName": "Mendip Sally",
+        "rank": 2,
+        "betfairOdds": 3.5
+      },
+      {
+        "dogName": "Listen Again",
+        "rank": 4,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Castell Paddy",
+        "rank": 3,
+        "betfairOdds": 2.88
+      },
+      {
+        "dogName": "Mt Heaton Pip",
+        "rank": 5,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Rheas Choice",
+        "rank": 1,
+        "betfairOdds": 9.6
+      }
+    ]
+  },
+  {
+    "raceId": 1047532,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A3",
+    "time": "21:23:00",
+    "track": "Monmore",
+    "currentBalance": 258.56,
+    "profit": 29.28,
+    "dogs": [
+      {
+        "dogName": "Tullymurry Lyric",
+        "rank": 2,
+        "betfairOdds": 4.2
+      },
+      {
+        "dogName": "Winterfield Mary",
+        "rank": 1,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Senahel Bluey",
+        "rank": 3,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Remarkable Scamp",
+        "rank": 4,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Dhustone Carmel",
+        "rank": 5,
+        "betfairOdds": 4.2
+      }
+    ]
+  },
+  {
+    "raceId": 1047299,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A5",
+    "time": "21:28:00",
+    "track": "Newcastle",
+    "currentBalance": 262.46,
+    "profit": 31.23,
+    "dogs": [
+      {
+        "dogName": "Aegis Jud",
+        "rank": 1,
+        "betfairOdds": 3.4
+      },
+      {
+        "dogName": "Tee Tee Jet",
+        "rank": 5,
+        "betfairOdds": 16
+      },
+      {
+        "dogName": "Dromana Roxy",
+        "rank": 3,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Blackhouse Sadie",
+        "rank": 2,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "John The Joiner",
+        "rank": 4,
+        "betfairOdds": 4.3
+      }
+    ]
+  },
+  {
+    "raceId": 1047213,
+    "date": "2024-06-20",
+    "distance": 476,
+    "grade": "OR",
+    "time": "21:36:00",
+    "track": "Swindon",
+    "currentBalance": 262.46,
+    "profit": 31.23,
+    "dogs": [
+      {
+        "dogName": "Sallowglen Hope",
+        "rank": 1,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Arthur Length",
+        "rank": 5,
+        "betfairOdds": 29
+      },
+      {
+        "dogName": "Hanover Tom",
+        "rank": 4,
+        "betfairOdds": 44
+      },
+      {
+        "dogName": "Eze",
+        "rank": 2,
+        "betfairOdds": 1.59
+      },
+      {
+        "dogName": "Ballymac Rocky",
+        "rank": 3,
+        "betfairOdds": 5
+      }
+    ]
+  },
+  {
+    "raceId": 1047300,
+    "date": "2024-06-20",
+    "distance": 480,
+    "grade": "A7",
+    "time": "21:46:00",
+    "track": "Newcastle",
+    "currentBalance": 266.36,
+    "profit": 33.18,
+    "dogs": [
+      {
+        "dogName": "Dungannon Candy",
+        "rank": 2,
+        "betfairOdds": 3.7
+      },
+      {
+        "dogName": "Westforth Nylah",
+        "rank": 1,
+        "betfairOdds": 5.9
+      },
+      {
+        "dogName": "Westforth Forky",
+        "rank": 6,
+        "betfairOdds": 30
+      },
+      {
+        "dogName": "Angelicas Dream",
+        "rank": 4,
+        "betfairOdds": 21
+      },
+      {
+        "dogName": "Worthington",
+        "rank": 5,
+        "betfairOdds": 3.9
+      },
+      {
+        "dogName": "Chiltern Amelia",
+        "rank": 3,
+        "betfairOdds": 4.1
+      }
+    ]
+  },
+  {
+    "raceId": 1047214,
+    "date": "2024-06-20",
+    "distance": 476,
+    "grade": "OR",
+    "time": "21:52:00",
+    "track": "Swindon",
+    "currentBalance": 270.26,
+    "profit": 35.13,
+    "dogs": [
+      {
+        "dogName": "Mohican Richie",
+        "rank": 1,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "Beaconsfield Boy",
+        "rank": 2,
+        "betfairOdds": 3.2
+      },
+      {
+        "dogName": "Ashway Granite",
+        "rank": 3,
+        "betfairOdds": 9.8
+      },
+      {
+        "dogName": "Sporting Socks",
+        "rank": 4,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "All Long",
+        "rank": 5,
+        "betfairOdds": 12.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047716,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A9",
+    "time": "11:01:00",
+    "track": "Hove",
+    "currentBalance": 270.26,
+    "profit": 35.13,
+    "dogs": [
+      {
+        "dogName": "My Mate Hugsie",
+        "rank": 1,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Insane Investa",
+        "rank": 2,
+        "betfairOdds": 4.2
+      },
+      {
+        "dogName": "Oi Oi Sausage",
+        "rank": 3,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Seomra Power",
+        "rank": 4,
+        "betfairOdds": 3.8
+      },
+      {
+        "dogName": "Insane Laura",
+        "rank": 5,
+        "betfairOdds": 6.2
+      }
+    ]
+  },
+  {
+    "raceId": 1047425,
+    "date": "2024-06-21",
+    "distance": 238,
+    "grade": "D3",
+    "time": "11:04:00",
+    "track": "Harlow",
+    "currentBalance": 270.26,
+    "profit": 35.13,
+    "dogs": [
+      {
+        "dogName": "Tober Stan",
+        "rank": 2,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Millview Blondie",
+        "rank": 1,
+        "betfairOdds": 3.3
+      },
+      {
+        "dogName": "Leamaneigh Lore",
+        "rank": 3,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Croaghill Sam",
+        "rank": 5,
+        "betfairOdds": 5.1
+      },
+      {
+        "dogName": "Solas",
+        "rank": 6,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Luna Honey",
+        "rank": 4,
+        "betfairOdds": 17.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047587,
+    "date": "2024-06-21",
+    "distance": 277,
+    "grade": "D3",
+    "time": "11:09:00",
+    "track": "Central Park",
+    "currentBalance": 270.26,
+    "profit": 35.13,
+    "dogs": [
+      {
+        "dogName": "Ridgedale Lolls",
+        "rank": 1,
+        "betfairOdds": 8.6
+      },
+      {
+        "dogName": "Bombay Bomb",
+        "rank": 2,
+        "betfairOdds": 2.02
+      },
+      {
+        "dogName": "Stophers Virus",
+        "rank": 5,
+        "betfairOdds": 40
+      },
+      {
+        "dogName": "Flying Glenbrook",
+        "rank": 4,
+        "betfairOdds": 16
+      },
+      {
+        "dogName": "Run On King",
+        "rank": 3,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "Swift Undertaker",
+        "rank": 6,
+        "betfairOdds": 11.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047717,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A2",
+    "time": "11:18:00",
+    "track": "Hove",
+    "currentBalance": 274.16,
+    "profit": 37.08,
+    "dogs": [
+      {
+        "dogName": "Caramels Cream",
+        "rank": 1,
+        "betfairOdds": 3
+      },
+      {
+        "dogName": "Consider It Done",
+        "rank": 2,
+        "betfairOdds": 5.7
+      },
+      {
+        "dogName": "Minstrels Six",
+        "rank": 3,
+        "betfairOdds": 5.8
+      },
+      {
+        "dogName": "Chunky But Funky",
+        "rank": 4,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Turna Tina",
+        "rank": 5,
+        "betfairOdds": 4.1
+      }
+    ]
+  },
+  {
+    "raceId": 1047426,
+    "date": "2024-06-21",
+    "distance": 238,
+    "grade": "D5",
+    "time": "11:21:00",
+    "track": "Harlow",
+    "currentBalance": 255.76,
+    "profit": 27.88,
+    "dogs": [
+      {
+        "dogName": "Caislean Ruby",
+        "rank": 1,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Runalong Ruby",
+        "rank": 2,
+        "betfairOdds": 3.25
+      },
+      {
+        "dogName": "Blameiton Sally",
+        "rank": 3,
+        "betfairOdds": 10.5
+      },
+      {
+        "dogName": "Crinkill Danny",
+        "rank": 4,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Khachanov",
+        "rank": 5,
+        "betfairOdds": 8.8
+      },
+      {
+        "dogName": "Jiggys Turn",
+        "rank": 6,
+        "betfairOdds": 25
+      }
+    ]
+  },
+  {
+    "raceId": 1047588,
+    "date": "2024-06-21",
+    "distance": 491,
+    "grade": "A5",
+    "time": "11:27:00",
+    "track": "Central Park",
+    "currentBalance": 255.76,
+    "profit": 27.88,
+    "dogs": [
+      {
+        "dogName": "Franco Jock",
+        "rank": 1,
+        "betfairOdds": 3.9
+      },
+      {
+        "dogName": "Rosstemple Luna",
+        "rank": 2,
+        "betfairOdds": 3.7
+      },
+      {
+        "dogName": "Bandit Gillie",
+        "rank": 4,
+        "betfairOdds": 8.2
+      },
+      {
+        "dogName": "Mo Mo Bosh",
+        "rank": 3,
+        "betfairOdds": 2.86
+      },
+      {
+        "dogName": "Piemans Jetta",
+        "rank": 5,
+        "betfairOdds": 34
+      }
+    ]
+  },
+  {
+    "raceId": 1047718,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A2",
+    "time": "11:34:00",
+    "track": "Hove",
+    "currentBalance": 259.66,
+    "profit": 29.83,
+    "dogs": [
+      {
+        "dogName": "Ingrids Wish",
+        "rank": 1,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Watsons Avenue",
+        "rank": 2,
+        "betfairOdds": 4.5
+      },
+      {
+        "dogName": "Ivy Hill Jake",
+        "rank": 3,
+        "betfairOdds": 3.95
+      },
+      {
+        "dogName": "The Hill",
+        "rank": 4,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "Ballymac Lolls",
+        "rank": 5,
+        "betfairOdds": 7.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047427,
+    "date": "2024-06-21",
+    "distance": 415,
+    "grade": "A6",
+    "time": "11:38:00",
+    "track": "Harlow",
+    "currentBalance": 263.56,
+    "profit": 31.78,
+    "dogs": [
+      {
+        "dogName": "Blazeaway Kiss",
+        "rank": 5,
+        "betfairOdds": 4.5
+      },
+      {
+        "dogName": "Bridevalley Pa",
+        "rank": 2,
+        "betfairOdds": 4
+      },
+      {
+        "dogName": "Stop Complaining",
+        "rank": 4,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Glenadda Poppy",
+        "rank": 1,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Derramore Danger",
+        "rank": 3,
+        "betfairOdds": 3.85
+      }
+    ]
+  },
+  {
+    "raceId": 1047589,
+    "date": "2024-06-21",
+    "distance": 277,
+    "grade": "D1",
+    "time": "11:43:00",
+    "track": "Central Park",
+    "currentBalance": 263.56,
+    "profit": 31.78,
+    "dogs": [
+      {
+        "dogName": "Eire Force Two",
+        "rank": 1,
+        "betfairOdds": 2.6
+      },
+      {
+        "dogName": "Hollyoak Spartan",
+        "rank": 2,
+        "betfairOdds": 10.5
+      },
+      {
+        "dogName": "Young Mindy",
+        "rank": 4,
+        "betfairOdds": 5.5
+      },
+      {
+        "dogName": "Charter Carter",
+        "rank": 6,
+        "betfairOdds": 22
+      },
+      {
+        "dogName": "Ferndale Sparkle",
+        "rank": 3,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Smokey Leah",
+        "rank": 5,
+        "betfairOdds": 7.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047719,
+    "date": "2024-06-21",
+    "distance": 285,
+    "grade": "D2",
+    "time": "11:52:00",
+    "track": "Hove",
+    "currentBalance": 253.16,
+    "profit": 26.58,
+    "dogs": [
+      {
+        "dogName": "Droopys Opinion",
+        "rank": 1,
+        "betfairOdds": 3.6
+      },
+      {
+        "dogName": "Soul Rebel",
+        "rank": 2,
+        "betfairOdds": 2.26
+      },
+      {
+        "dogName": "Roll In Full",
+        "rank": 3,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Lulus Delight",
+        "rank": 4,
+        "betfairOdds": 23
+      },
+      {
+        "dogName": "Oilean Rona",
+        "rank": 5,
+        "betfairOdds": 7
+      }
+    ]
+  },
+  {
+    "raceId": 1047428,
+    "date": "2024-06-21",
+    "distance": 238,
+    "grade": "D4",
+    "time": "11:54:00",
+    "track": "Harlow",
+    "currentBalance": 257.06,
+    "profit": 28.53,
+    "dogs": [
+      {
+        "dogName": "Dunham Oliver",
+        "rank": 4,
+        "betfairOdds": 4.1
+      },
+      {
+        "dogName": "Sporting Hope",
+        "rank": 5,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Moss Row Madam",
+        "rank": 1,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Chiltern Oates",
+        "rank": 2,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Moss Row Mystic",
+        "rank": 6,
+        "betfairOdds": 4.5
+      },
+      {
+        "dogName": "Concra Wood",
+        "rank": 3,
+        "betfairOdds": 7.6
+      }
+    ]
+  },
+  {
+    "raceId": 1047590,
+    "date": "2024-06-21",
+    "distance": 491,
+    "grade": "A4",
+    "time": "12:01:00",
+    "track": "Central Park",
+    "currentBalance": 260.96,
+    "profit": 30.48,
+    "dogs": [
+      {
+        "dogName": "Still Have You",
+        "rank": 1,
+        "betfairOdds": 24
+      },
+      {
+        "dogName": "Maglass About",
+        "rank": 3,
+        "betfairOdds": 14
+      },
+      {
+        "dogName": "Affane Bailey",
+        "rank": 2,
+        "betfairOdds": 4.5
+      },
+      {
+        "dogName": "Hollyoak Katie",
+        "rank": 5,
+        "betfairOdds": 4.5
+      },
+      {
+        "dogName": "Easy Star",
+        "rank": 6,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Hollyoak Mable",
+        "rank": 4,
+        "betfairOdds": 3.3
+      }
+    ]
+  },
+  {
+    "raceId": 1047720,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A4",
+    "time": "12:09:00",
+    "track": "Hove",
+    "currentBalance": 260.96,
+    "profit": 30.48,
+    "dogs": [
+      {
+        "dogName": "Antigua Paddy",
+        "rank": 1,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Crystal Buster",
+        "rank": 2,
+        "betfairOdds": 3.85
+      },
+      {
+        "dogName": "Pocket Gypsy",
+        "rank": 4,
+        "betfairOdds": 2.18
+      },
+      {
+        "dogName": "Touchdown Baby",
+        "rank": 5,
+        "betfairOdds": 26
+      },
+      {
+        "dogName": "Droopys Simone",
+        "rank": 3,
+        "betfairOdds": 7.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047429,
+    "date": "2024-06-21",
+    "distance": 415,
+    "grade": "A3",
+    "time": "12:12:00",
+    "track": "Harlow",
+    "currentBalance": 251.56,
+    "profit": 25.78,
+    "dogs": [
+      {
+        "dogName": "Tinnock Scorpio",
+        "rank": 1,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "Miss Zoey",
+        "rank": 2,
+        "betfairOdds": 5.1
+      },
+      {
+        "dogName": "Classic Emma",
+        "rank": 4,
+        "betfairOdds": 5.1
+      },
+      {
+        "dogName": "Soul Destroyer",
+        "rank": 3,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "Charls Boy",
+        "rank": 5,
+        "betfairOdds": 15.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047591,
+    "date": "2024-06-21",
+    "distance": 277,
+    "grade": "D5",
+    "time": "12:18:00",
+    "track": "Central Park",
+    "currentBalance": 251.56,
+    "profit": 25.78,
+    "dogs": [
+      {
+        "dogName": "Jans Roller",
+        "rank": 1,
+        "betfairOdds": 4.5
+      },
+      {
+        "dogName": "Lovely Chip",
+        "rank": 2,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Marcias Blue Boy",
+        "rank": 3,
+        "betfairOdds": 5.1
+      },
+      {
+        "dogName": "Waikiki Maggie",
+        "rank": 4,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Decisive Terri",
+        "rank": 5,
+        "betfairOdds": 3.95
+      },
+      {
+        "dogName": "Foxwood Eddie",
+        "rank": 6,
+        "betfairOdds": 14.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047721,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A8",
+    "time": "12:26:00",
+    "track": "Hove",
+    "currentBalance": 255.46,
+    "profit": 27.73,
+    "dogs": [
+      {
+        "dogName": "Ashington Bear",
+        "rank": 1,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Simba Boy",
+        "rank": 2,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "Punk Rock Chewy",
+        "rank": 3,
+        "betfairOdds": 3.45
+      },
+      {
+        "dogName": "Glengar Holly",
+        "rank": 4,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Insane Bud",
+        "rank": 5,
+        "betfairOdds": 5.7
+      }
+    ]
+  },
+  {
+    "raceId": 1047430,
+    "date": "2024-06-21",
+    "distance": 238,
+    "grade": "D2",
+    "time": "12:29:00",
+    "track": "Harlow",
+    "currentBalance": 259.36,
+    "profit": 29.68,
+    "dogs": [
+      {
+        "dogName": "Flaminmagical",
+        "rank": 1,
+        "betfairOdds": 3.65
+      },
+      {
+        "dogName": "Dacron Man",
+        "rank": 4,
+        "betfairOdds": 9.4
+      },
+      {
+        "dogName": "Kiskeam Paddy",
+        "rank": 3,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Ivanhoe Ginger",
+        "rank": 6,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Croaghill Pippy",
+        "rank": 2,
+        "betfairOdds": 5.5
+      },
+      {
+        "dogName": "Brosna Jake",
+        "rank": 5,
+        "betfairOdds": 5.7
+      }
+    ]
+  },
+  {
+    "raceId": 1047592,
+    "date": "2024-06-21",
+    "distance": 491,
+    "grade": "A4",
+    "time": "12:34:00",
+    "track": "Central Park",
+    "currentBalance": 259.36,
+    "profit": 29.68,
+    "dogs": [
+      {
+        "dogName": "Spicey Ruby",
+        "rank": 6,
+        "betfairOdds": 42
+      },
+      {
+        "dogName": "Hollyoak Shiloh",
+        "rank": 5,
+        "betfairOdds": 9.8
+      },
+      {
+        "dogName": "Brain Washed",
+        "rank": 3,
+        "betfairOdds": 9.2
+      },
+      {
+        "dogName": "Rosstemple Bono",
+        "rank": 2,
+        "betfairOdds": 2.28
+      },
+      {
+        "dogName": "Brisk Bogan",
+        "rank": 4,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Greenhall Tokyo",
+        "rank": 1,
+        "betfairOdds": 5.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047722,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A1",
+    "time": "12:42:00",
+    "track": "Hove",
+    "currentBalance": 263.26,
+    "profit": 31.63,
+    "dogs": [
+      {
+        "dogName": "Done Me Dosh",
+        "rank": 1,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Sharp Bobby",
+        "rank": 2,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Farmway Wedge",
+        "rank": 3,
+        "betfairOdds": 3.3
+      },
+      {
+        "dogName": "Baffled",
+        "rank": 5,
+        "betfairOdds": 3.25
+      },
+      {
+        "dogName": "Slaneyside Amber",
+        "rank": 4,
+        "betfairOdds": 25
+      }
+    ]
+  },
+  {
+    "raceId": 1047431,
+    "date": "2024-06-21",
+    "distance": 238,
+    "grade": "D3",
+    "time": "12:46:00",
+    "track": "Harlow",
+    "currentBalance": 267.16,
+    "profit": 33.58,
+    "dogs": [
+      {
+        "dogName": "Ballykevin Dream",
+        "rank": 1,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Outlander",
+        "rank": 3,
+        "betfairOdds": 5.1
+      },
+      {
+        "dogName": "Assultan",
+        "rank": 4,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Time Is Now",
+        "rank": 5,
+        "betfairOdds": 5.8
+      },
+      {
+        "dogName": "Kearneys Galaxy",
+        "rank": 2,
+        "betfairOdds": 2.94
+      }
+    ]
+  },
+  {
+    "raceId": 1047593,
+    "date": "2024-06-21",
+    "distance": 277,
+    "grade": "D4",
+    "time": "12:51:00",
+    "track": "Central Park",
+    "currentBalance": 267.16,
+    "profit": 33.58,
+    "dogs": [
+      {
+        "dogName": "Jans Abbie",
+        "rank": 1,
+        "betfairOdds": 3.4
+      },
+      {
+        "dogName": "Fawkham Cilla",
+        "rank": 2,
+        "betfairOdds": 2.54
+      },
+      {
+        "dogName": "Glasheen Gold",
+        "rank": 4,
+        "betfairOdds": 15.5
+      },
+      {
+        "dogName": "Decisive Mags",
+        "rank": 5,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Hollyoak Dally",
+        "rank": 6,
+        "betfairOdds": 65
+      },
+      {
+        "dogName": "Closed Route",
+        "rank": 3,
+        "betfairOdds": 9.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047723,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A5",
+    "time": "12:59:00",
+    "track": "Hove",
+    "currentBalance": 267.16,
+    "profit": 33.58,
+    "dogs": [
+      {
+        "dogName": "Farranrory Blitz",
+        "rank": 1,
+        "betfairOdds": 23
+      },
+      {
+        "dogName": "Sportsmans News",
+        "rank": 2,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Joyces Reggi",
+        "rank": 3,
+        "betfairOdds": 1.68
+      },
+      {
+        "dogName": "Kerrs Cagney",
+        "rank": 4,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Harlequin Harvey",
+        "rank": 5,
+        "betfairOdds": 10.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047432,
+    "date": "2024-06-21",
+    "distance": 415,
+    "grade": "A5",
+    "time": "13:03:00",
+    "track": "Harlow",
+    "currentBalance": 271.06,
+    "profit": 35.53,
+    "dogs": [
+      {
+        "dogName": "Jeanettes Fry Up",
+        "rank": 1,
+        "betfairOdds": 3.2
+      },
+      {
+        "dogName": "Overthelineemily",
+        "rank": 2,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Ravestock Robert",
+        "rank": 4,
+        "betfairOdds": 3.65
+      },
+      {
+        "dogName": "Salahs Dream",
+        "rank": 5,
+        "betfairOdds": 10.5
+      },
+      {
+        "dogName": "Dyno Storm",
+        "rank": 3,
+        "betfairOdds": 5.7
+      }
+    ]
+  },
+  {
+    "raceId": 1047594,
+    "date": "2024-06-21",
+    "distance": 491,
+    "grade": "A4",
+    "time": "13:08:00",
+    "track": "Central Park",
+    "currentBalance": 271.06,
+    "profit": 35.53,
+    "dogs": [
+      {
+        "dogName": "Burnpark Twinkle",
+        "rank": 1,
+        "betfairOdds": 1.56
+      },
+      {
+        "dogName": "Silver Trumpet",
+        "rank": 2,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Kereight Prodigy",
+        "rank": 4,
+        "betfairOdds": 17
+      },
+      {
+        "dogName": "Boomerang Lowry",
+        "rank": 3,
+        "betfairOdds": 10.5
+      },
+      {
+        "dogName": "Mrs Barnehurst",
+        "rank": 5,
+        "betfairOdds": 28
+      }
+    ]
+  },
+  {
+    "raceId": 1047724,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A5",
+    "time": "13:17:00",
+    "track": "Hove",
+    "currentBalance": 274.96,
+    "profit": 37.48,
+    "dogs": [
+      {
+        "dogName": "Awareness",
+        "rank": 1,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Ballytag Ava",
+        "rank": 2,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Punk Rock Zelda",
+        "rank": 3,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Mr Two Spoons",
+        "rank": 5,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Airlie Port",
+        "rank": 4,
+        "betfairOdds": 4.5
+      },
+      {
+        "dogName": "Sly Girl",
+        "rank": 6,
+        "betfairOdds": 17
+      }
+    ]
+  },
+  {
+    "raceId": 1047433,
+    "date": "2024-06-21",
+    "distance": 238,
+    "grade": "D4",
+    "time": "13:19:00",
+    "track": "Harlow",
+    "currentBalance": 278.86,
+    "profit": 39.43,
+    "dogs": [
+      {
+        "dogName": "Ross Warrior",
+        "rank": 1,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Overdraft",
+        "rank": 2,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Rathduff Fury",
+        "rank": 3,
+        "betfairOdds": 5.1
+      },
+      {
+        "dogName": "Trust",
+        "rank": 4,
+        "betfairOdds": 9.4
+      },
+      {
+        "dogName": "Aussie Chunk",
+        "rank": 5,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Tartan Red",
+        "rank": 6,
+        "betfairOdds": 8
+      }
+    ]
+  },
+  {
+    "raceId": 1047595,
+    "date": "2024-06-21",
+    "distance": 277,
+    "grade": "D1",
+    "time": "13:26:00",
+    "track": "Central Park",
+    "currentBalance": 282.76,
+    "profit": 41.38,
+    "dogs": [
+      {
+        "dogName": "Ramors Nathan",
+        "rank": 3,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Ballymac Nemo",
+        "rank": 4,
+        "betfairOdds": 3.95
+      },
+      {
+        "dogName": "Burnpark Carol",
+        "rank": 6,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Fahoura Lad",
+        "rank": 5,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Kitmins Blondie",
+        "rank": 1,
+        "betfairOdds": 10.5
+      },
+      {
+        "dogName": "Broadway Mist",
+        "rank": 2,
+        "betfairOdds": 5.3
+      }
+    ]
+  },
+  {
+    "raceId": 1047725,
+    "date": "2024-06-21",
+    "distance": 285,
+    "grade": "D3",
+    "time": "13:33:00",
+    "track": "Hove",
+    "currentBalance": 282.76,
+    "profit": 41.38,
+    "dogs": [
+      {
+        "dogName": "Antigua Shore",
+        "rank": 1,
+        "betfairOdds": 2.04
+      },
+      {
+        "dogName": "Cookie",
+        "rank": 2,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Da Milk Man",
+        "rank": 3,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Deecee Bluey",
+        "rank": 4,
+        "betfairOdds": 42
+      },
+      {
+        "dogName": "Insane Red Card",
+        "rank": 5,
+        "betfairOdds": 8.6
+      },
+      {
+        "dogName": "Only If",
+        "rank": 6,
+        "betfairOdds": 9.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047434,
+    "date": "2024-06-21",
+    "distance": 415,
+    "grade": "A7",
+    "time": "13:37:00",
+    "track": "Harlow",
+    "currentBalance": 286.66,
+    "profit": 43.33,
+    "dogs": [
+      {
+        "dogName": "Sportage Clancy",
+        "rank": 2,
+        "betfairOdds": 38
+      },
+      {
+        "dogName": "Brosna Bucks",
+        "rank": 3,
+        "betfairOdds": 3.1
+      },
+      {
+        "dogName": "Glasmeen Tina",
+        "rank": 4,
+        "betfairOdds": 17
+      },
+      {
+        "dogName": "Tis The Time",
+        "rank": 1,
+        "betfairOdds": 3.05
+      },
+      {
+        "dogName": "Brosna Nancy",
+        "rank": 5,
+        "betfairOdds": 5.3
+      },
+      {
+        "dogName": "Millmount Dot",
+        "rank": 6,
+        "betfairOdds": 16.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047726,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A9",
+    "time": "13:51:00",
+    "track": "Hove",
+    "currentBalance": 290.56,
+    "profit": 45.28,
+    "dogs": [
+      {
+        "dogName": "Antigua Anna",
+        "rank": 2,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Punkrocksiouxsie",
+        "rank": 3,
+        "betfairOdds": 3.3
+      },
+      {
+        "dogName": "Punk Rock Hobbit",
+        "rank": 4,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Roanna Lily",
+        "rank": 1,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Howareyabebe",
+        "rank": 5,
+        "betfairOdds": 4.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047435,
+    "date": "2024-06-21",
+    "distance": 238,
+    "grade": "D4",
+    "time": "13:54:00",
+    "track": "Harlow",
+    "currentBalance": 294.46,
+    "profit": 47.23,
+    "dogs": [
+      {
+        "dogName": "Aurora Slippy",
+        "rank": 2,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Fleetwood Flash",
+        "rank": 3,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Crystal Darcy",
+        "rank": 1,
+        "betfairOdds": 5.8
+      },
+      {
+        "dogName": "Harriestown Jet",
+        "rank": 4,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "How Ye May",
+        "rank": 5,
+        "betfairOdds": 15.5
+      },
+      {
+        "dogName": "Annual Charge",
+        "rank": 6,
+        "betfairOdds": 6.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047597,
+    "date": "2024-06-21",
+    "distance": 277,
+    "grade": "D1",
+    "time": "13:59:00",
+    "track": "Central Park",
+    "currentBalance": 294.46,
+    "profit": 47.23,
+    "dogs": [
+      {
+        "dogName": "Crafty El Paso",
+        "rank": 3,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Dower Pat",
+        "rank": 4,
+        "betfairOdds": 3.3
+      },
+      {
+        "dogName": "Classy Fernando",
+        "rank": 5,
+        "betfairOdds": 60
+      },
+      {
+        "dogName": "Eire Bullet",
+        "rank": 6,
+        "betfairOdds": 14
+      },
+      {
+        "dogName": "Mandeville Toto",
+        "rank": 2,
+        "betfairOdds": 21
+      },
+      {
+        "dogName": "Eire Magic",
+        "rank": 1,
+        "betfairOdds": 2
+      }
+    ]
+  },
+  {
+    "raceId": 1047727,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A11",
+    "time": "14:07:00",
+    "track": "Hove",
+    "currentBalance": 298.36,
+    "profit": 49.18,
+    "dogs": [
+      {
+        "dogName": "Isthatok",
+        "rank": 2,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Touchdown Theo",
+        "rank": 1,
+        "betfairOdds": 3.75
+      },
+      {
+        "dogName": "Blitzkrieg Punk",
+        "rank": 3,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "One On Way",
+        "rank": 5,
+        "betfairOdds": 5.8
+      },
+      {
+        "dogName": "Salems Boris",
+        "rank": 6,
+        "betfairOdds": 6
+      }
+    ]
+  },
+  {
+    "raceId": 1047436,
+    "date": "2024-06-21",
+    "distance": 238,
+    "grade": "D5",
+    "time": "14:11:00",
+    "track": "Harlow",
+    "currentBalance": 302.26,
+    "profit": 51.13,
+    "dogs": [
+      {
+        "dogName": "Knockglass Pet",
+        "rank": 2,
+        "betfairOdds": 4
+      },
+      {
+        "dogName": "Whistleinthedark",
+        "rank": 3,
+        "betfairOdds": 22
+      },
+      {
+        "dogName": "Blacklabel Belle",
+        "rank": 5,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Keplar Isis",
+        "rank": 4,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Moss Row Gem",
+        "rank": 1,
+        "betfairOdds": 16
+      },
+      {
+        "dogName": "Fix Eight",
+        "rank": 6,
+        "betfairOdds": 5.2
+      }
+    ]
+  },
+  {
+    "raceId": 1047598,
+    "date": "2024-06-21",
+    "distance": 491,
+    "grade": "A2",
+    "time": "14:14:00",
+    "track": "Central Park",
+    "currentBalance": 306.16,
+    "profit": 53.08,
+    "dogs": [
+      {
+        "dogName": "Hollyoak Blossom",
+        "rank": 1,
+        "betfairOdds": 7
+      },
+      {
+        "dogName": "Iomhair",
+        "rank": 2,
+        "betfairOdds": 4.1
+      },
+      {
+        "dogName": "Midas Flash",
+        "rank": 3,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Harlequin Money",
+        "rank": 4,
+        "betfairOdds": 3.3
+      },
+      {
+        "dogName": "Kereight Belle",
+        "rank": 5,
+        "betfairOdds": 9.6
+      }
+    ]
+  },
+  {
+    "raceId": 1047575,
+    "date": "2024-06-21",
+    "distance": 380,
+    "grade": "A8",
+    "time": "14:23:00",
+    "track": "Crayford",
+    "currentBalance": 296.16,
+    "profit": 48.08,
+    "dogs": [
+      {
+        "dogName": "Cree Ella",
+        "rank": 1,
+        "betfairOdds": 3.5
+      },
+      {
+        "dogName": "Solid Heggo",
+        "rank": 3,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "Sweet Free",
+        "rank": 2,
+        "betfairOdds": 3.9
+      },
+      {
+        "dogName": "Trapstyle Tee",
+        "rank": 4,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Choices Pat",
+        "rank": 5,
+        "betfairOdds": 7.6
+      }
+    ]
+  },
+  {
+    "raceId": 1047728,
+    "date": "2024-06-21",
+    "distance": 268,
+    "grade": "D4",
+    "time": "14:29:00",
+    "track": "Kinsley",
+    "currentBalance": 296.16,
+    "profit": 48.08,
+    "dogs": [
+      {
+        "dogName": "How Ye Buckey",
+        "rank": 1,
+        "betfairOdds": 9
+      },
+      {
+        "dogName": "Corruptor",
+        "rank": 2,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Grandads Snow",
+        "rank": 3,
+        "betfairOdds": 5.5
+      },
+      {
+        "dogName": "Deacon Dream",
+        "rank": 5,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Corner Zoom",
+        "rank": 4,
+        "betfairOdds": 4.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047740,
+    "date": "2024-06-21",
+    "distance": 480,
+    "grade": "A7",
+    "time": "14:36:00",
+    "track": "Newcastle",
+    "currentBalance": 284.36,
+    "profit": 42.18,
+    "dogs": [
+      {
+        "dogName": "Jords Little Ivy",
+        "rank": 1,
+        "betfairOdds": 3.95
+      },
+      {
+        "dogName": "Alnwick Lottie",
+        "rank": 2,
+        "betfairOdds": 3.7
+      },
+      {
+        "dogName": "Alnwick Pickle",
+        "rank": 3,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Forgotten King",
+        "rank": 4,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "Kathys Gift",
+        "rank": 5,
+        "betfairOdds": 14
+      },
+      {
+        "dogName": "Emers Dawn",
+        "rank": 6,
+        "betfairOdds": 29
+      }
+    ]
+  },
+  {
+    "raceId": 1047576,
+    "date": "2024-06-21",
+    "distance": 380,
+    "grade": "A2",
+    "time": "14:41:00",
+    "track": "Crayford",
+    "currentBalance": 288.26,
+    "profit": 44.13,
+    "dogs": [
+      {
+        "dogName": "Moaning Versace",
+        "rank": 1,
+        "betfairOdds": 2.76
+      },
+      {
+        "dogName": "Ronnies Quest",
+        "rank": 2,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Granree Jessie",
+        "rank": 5,
+        "betfairOdds": 14.5
+      },
+      {
+        "dogName": "Choices Peggy",
+        "rank": 3,
+        "betfairOdds": 3.5
+      },
+      {
+        "dogName": "Bromley Boy",
+        "rank": 4,
+        "betfairOdds": 4.8
+      }
+    ]
+  },
+  {
+    "raceId": 1046758,
+    "date": "2024-06-21",
+    "distance": 220,
+    "grade": "D3",
+    "time": "14:44:00",
+    "track": "Suffolk Downs",
+    "currentBalance": 292.16,
+    "profit": 46.08,
+    "dogs": [
+      {
+        "dogName": "Savana Roger",
+        "rank": 1,
+        "betfairOdds": 2.14
+      },
+      {
+        "dogName": "Savana Armani",
+        "rank": 3,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Savana Chilli",
+        "rank": 2,
+        "betfairOdds": 3.45
+      },
+      {
+        "dogName": "Olivetree Eva",
+        "rank": 4,
+        "betfairOdds": 17.5
+      },
+      {
+        "dogName": "Francos Pippa",
+        "rank": 5,
+        "betfairOdds": 25
+      },
+      {
+        "dogName": "Daring Hero",
+        "rank": 6,
+        "betfairOdds": 30
+      }
+    ]
+  },
+  {
+    "raceId": 1047729,
+    "date": "2024-06-21",
+    "distance": 462,
+    "grade": "A4",
+    "time": "14:48:00",
+    "track": "Kinsley",
+    "currentBalance": 292.16,
+    "profit": 46.08,
+    "dogs": [
+      {
+        "dogName": "Danesrath Finn",
+        "rank": 2,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "Betsys Minnie",
+        "rank": 3,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Springfield Best",
+        "rank": 1,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "Tuxedo Twlight",
+        "rank": 4,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Pukka Poppy",
+        "rank": 6,
+        "betfairOdds": 13.5
+      },
+      {
+        "dogName": "Speedy Stella",
+        "rank": 5,
+        "betfairOdds": 11
+      }
+    ]
+  },
+  {
+    "raceId": 1047741,
+    "date": "2024-06-21",
+    "distance": 480,
+    "grade": "A6",
+    "time": "14:54:00",
+    "track": "Newcastle",
+    "currentBalance": 292.16,
+    "profit": 46.08,
+    "dogs": [
+      {
+        "dogName": "Private Anna",
+        "rank": 1,
+        "betfairOdds": 2.16
+      },
+      {
+        "dogName": "Southfield Eagle",
+        "rank": 2,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Blooming Belle",
+        "rank": 5,
+        "betfairOdds": 17.5
+      },
+      {
+        "dogName": "Chiltern Peach",
+        "rank": 4,
+        "betfairOdds": 46
+      },
+      {
+        "dogName": "Corrina Star",
+        "rank": 3,
+        "betfairOdds": 42
+      },
+      {
+        "dogName": "Alnwick Longmire",
+        "rank": 6,
+        "betfairOdds": 2.84
+      }
+    ]
+  },
+  {
+    "raceId": 1047577,
+    "date": "2024-06-21",
+    "distance": 380,
+    "grade": "A4",
+    "time": "15:01:00",
+    "track": "Crayford",
+    "currentBalance": 296.06,
+    "profit": 48.03,
+    "dogs": [
+      {
+        "dogName": "Wicky Moe",
+        "rank": 1,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Trapstyle Henrik",
+        "rank": 4,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Droopys Anchor",
+        "rank": 3,
+        "betfairOdds": 5.7
+      },
+      {
+        "dogName": "Trapstyle Rolex",
+        "rank": 5,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Ballymac Julia",
+        "rank": 2,
+        "betfairOdds": 3
+      }
+    ]
+  },
+  {
+    "raceId": 1046759,
+    "date": "2024-06-21",
+    "distance": 388,
+    "grade": "A4",
+    "time": "15:03:00",
+    "track": "Suffolk Downs",
+    "currentBalance": 296.06,
+    "profit": 48.03,
+    "dogs": [
+      {
+        "dogName": "Savana Belter",
+        "rank": 4,
+        "betfairOdds": 2.36
+      },
+      {
+        "dogName": "Fenview Taylor",
+        "rank": 5,
+        "betfairOdds": 13.5
+      },
+      {
+        "dogName": "Blackrose Ragnar",
+        "rank": 3,
+        "betfairOdds": 9.2
+      },
+      {
+        "dogName": "Olivetree Girl",
+        "rank": 1,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Zoos Fred",
+        "rank": 2,
+        "betfairOdds": 4.2
+      }
+    ]
+  },
+  {
+    "raceId": 1047730,
+    "date": "2024-06-21",
+    "distance": 462,
+    "grade": "A6",
+    "time": "15:07:00",
+    "track": "Kinsley",
+    "currentBalance": 299.96,
+    "profit": 49.98,
+    "dogs": [
+      {
+        "dogName": "Derrymore Jill",
+        "rank": 1,
+        "betfairOdds": 5.8
+      },
+      {
+        "dogName": "Grumpy Pugwash",
+        "rank": 2,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Abbeyside Kay",
+        "rank": 3,
+        "betfairOdds": 13.5
+      },
+      {
+        "dogName": "Glory Bomber",
+        "rank": 5,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "Gainstown Mammy",
+        "rank": 6,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Errill Merry",
+        "rank": 4,
+        "betfairOdds": 5.4
+      }
+    ]
+  },
+  {
+    "raceId": 1047599,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A4",
+    "time": "15:11:00",
+    "track": "Towcester",
+    "currentBalance": 290.76,
+    "profit": 45.38,
+    "dogs": [
+      {
+        "dogName": "Apache Blaze",
+        "rank": 1,
+        "betfairOdds": 3.3
+      },
+      {
+        "dogName": "Savana Mustang",
+        "rank": 3,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "Savana Chester",
+        "rank": 4,
+        "betfairOdds": 10
+      },
+      {
+        "dogName": "Westfield Wispa",
+        "rank": 2,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Westfield Weasel",
+        "rank": 5,
+        "betfairOdds": 4.6
+      }
+    ]
+  },
+  {
+    "raceId": 1047742,
+    "date": "2024-06-21",
+    "distance": 480,
+    "grade": "A7",
+    "time": "15:13:00",
+    "track": "Newcastle",
+    "currentBalance": 294.66,
+    "profit": 47.33,
+    "dogs": [
+      {
+        "dogName": "Alnwick Toonarmy",
+        "rank": 3,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Emers Vinnie",
+        "rank": 4,
+        "betfairOdds": 21
+      },
+      {
+        "dogName": "Watermill Mya",
+        "rank": 2,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Eden Pogba",
+        "rank": 5,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Watermill Alana",
+        "rank": 6,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Shesaniceone",
+        "rank": 1,
+        "betfairOdds": 6.2
+      }
+    ]
+  },
+  {
+    "raceId": 1046760,
+    "date": "2024-06-21",
+    "distance": 388,
+    "grade": "A7",
+    "time": "15:22:00",
+    "track": "Suffolk Downs",
+    "currentBalance": 294.66,
+    "profit": 47.33,
+    "dogs": [
+      {
+        "dogName": "Garys Babe",
+        "rank": 1,
+        "betfairOdds": 9.6
+      },
+      {
+        "dogName": "Swift Jordana",
+        "rank": 2,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Savana Star",
+        "rank": 3,
+        "betfairOdds": 2.44
+      },
+      {
+        "dogName": "Eileens Flash",
+        "rank": 4,
+        "betfairOdds": 5.5
+      },
+      {
+        "dogName": "Weeber Hiho",
+        "rank": 5,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Newtown Dobby",
+        "rank": 6,
+        "betfairOdds": 34
+      }
+    ]
+  },
+  {
+    "raceId": 1047600,
+    "date": "2024-06-21",
+    "distance": 270,
+    "grade": "D1",
+    "time": "15:29:00",
+    "track": "Towcester",
+    "currentBalance": 298.56,
+    "profit": 49.28,
+    "dogs": [
+      {
+        "dogName": "Sehnsa Stowe",
+        "rank": 1,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Makeit Floss",
+        "rank": 3,
+        "betfairOdds": 2.96
+      },
+      {
+        "dogName": "Jacktavern Pele",
+        "rank": 2,
+        "betfairOdds": 5.2
+      },
+      {
+        "dogName": "Traptoline Zorro",
+        "rank": 4,
+        "betfairOdds": 23
+      },
+      {
+        "dogName": "Savana Butler",
+        "rank": 5,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Disaronno Nero",
+        "rank": 6,
+        "betfairOdds": 5.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047743,
+    "date": "2024-06-21",
+    "distance": 480,
+    "grade": "A8",
+    "time": "15:32:00",
+    "track": "Newcastle",
+    "currentBalance": 302.46,
+    "profit": 51.23,
+    "dogs": [
+      {
+        "dogName": "Brosna Fancy",
+        "rank": 1,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "Babs Ghost",
+        "rank": 2,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Eden Ronaldo",
+        "rank": 3,
+        "betfairOdds": 16.5
+      },
+      {
+        "dogName": "Watermill Tink",
+        "rank": 4,
+        "betfairOdds": 4.5
+      },
+      {
+        "dogName": "Bruno On Fire",
+        "rank": 5,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Isak On Fire",
+        "rank": 6,
+        "betfairOdds": 30
+      }
+    ]
+  },
+  {
+    "raceId": 1046761,
+    "date": "2024-06-21",
+    "distance": 388,
+    "grade": "A4",
+    "time": "15:41:00",
+    "track": "Suffolk Downs",
+    "currentBalance": 306.36,
+    "profit": 53.18,
+    "dogs": [
+      {
+        "dogName": "Coolruss Izzy",
+        "rank": 3,
+        "betfairOdds": 5.5
+      },
+      {
+        "dogName": "Salems Manhattan",
+        "rank": 2,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Skytrain",
+        "rank": 1,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Pharis Melody",
+        "rank": 4,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Skinny Pete",
+        "rank": 5,
+        "betfairOdds": 4.2
+      }
+    ]
+  },
+  {
+    "raceId": 1047732,
+    "date": "2024-06-21",
+    "distance": 268,
+    "grade": "D1",
+    "time": "15:44:00",
+    "track": "Kinsley",
+    "currentBalance": 310.26,
+    "profit": 55.13,
+    "dogs": [
+      {
+        "dogName": "Tory Dream",
+        "rank": 1,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Ballymac Pria",
+        "rank": 2,
+        "betfairOdds": 9.4
+      },
+      {
+        "dogName": "Blue The Woofoff",
+        "rank": 3,
+        "betfairOdds": 5.1
+      },
+      {
+        "dogName": "Doonanes Ned",
+        "rank": 4,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Jeannie Jo",
+        "rank": 5,
+        "betfairOdds": 4.3
+      },
+      {
+        "dogName": "Sunnybank Rose",
+        "rank": 6,
+        "betfairOdds": 16.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047601,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A4",
+    "time": "15:49:00",
+    "track": "Towcester",
+    "currentBalance": 310.26,
+    "profit": 55.13,
+    "dogs": [
+      {
+        "dogName": "Makeit Rocky",
+        "rank": 3,
+        "betfairOdds": 25
+      },
+      {
+        "dogName": "Fabulous Dorotas",
+        "rank": 4,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Makeit Forfranky",
+        "rank": 5,
+        "betfairOdds": 55
+      },
+      {
+        "dogName": "Sehnsa Fury",
+        "rank": 6,
+        "betfairOdds": 5.2
+      },
+      {
+        "dogName": "Bullet Sofia",
+        "rank": 2,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Bombay Puzzle",
+        "rank": 1,
+        "betfairOdds": 2.08
+      }
+    ]
+  },
+  {
+    "raceId": 1047744,
+    "date": "2024-06-21",
+    "distance": 480,
+    "grade": "A6",
+    "time": "15:51:00",
+    "track": "Newcastle",
+    "currentBalance": 314.16,
+    "profit": 57.08,
+    "dogs": [
+      {
+        "dogName": "Alnwick Girl",
+        "rank": 3,
+        "betfairOdds": 9.2
+      },
+      {
+        "dogName": "Watermill Minnie",
+        "rank": 4,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Solway Margo",
+        "rank": 2,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Alnwick Castle",
+        "rank": 1,
+        "betfairOdds": 2.48
+      },
+      {
+        "dogName": "Happy Stranger",
+        "rank": 5,
+        "betfairOdds": 4.2
+      }
+    ]
+  },
+  {
+    "raceId": 1047733,
+    "date": "2024-06-21",
+    "distance": 462,
+    "grade": "A5",
+    "time": "16:03:00",
+    "track": "Kinsley",
+    "currentBalance": 318.06,
+    "profit": 59.03,
+    "dogs": [
+      {
+        "dogName": "Knotmor Best",
+        "rank": 2,
+        "betfairOdds": 4.2
+      },
+      {
+        "dogName": "Sheriffs Rose",
+        "rank": 3,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Elusive Mischief",
+        "rank": 4,
+        "betfairOdds": 16.5
+      },
+      {
+        "dogName": "Shelone Luna",
+        "rank": 5,
+        "betfairOdds": 4.8
+      },
+      {
+        "dogName": "Tally Ho Rocket",
+        "rank": 6,
+        "betfairOdds": 4.5
+      },
+      {
+        "dogName": "Crystal Buddy",
+        "rank": 1,
+        "betfairOdds": 19.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047602,
+    "date": "2024-06-21",
+    "distance": 270,
+    "grade": "D1",
+    "time": "16:07:00",
+    "track": "Towcester",
+    "currentBalance": 318.06,
+    "profit": 59.03,
+    "dogs": [
+      {
+        "dogName": "Popmaster",
+        "rank": 1,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Some Playboy",
+        "rank": 2,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Dark Lady",
+        "rank": 3,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Fabulous Myoki",
+        "rank": 4,
+        "betfairOdds": 2.26
+      },
+      {
+        "dogName": "Some Aim",
+        "rank": 5,
+        "betfairOdds": 13.5
+      },
+      {
+        "dogName": "Makeit Storm",
+        "rank": 6,
+        "betfairOdds": 17.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047745,
+    "date": "2024-06-21",
+    "distance": 480,
+    "grade": "A6",
+    "time": "16:09:00",
+    "track": "Newcastle",
+    "currentBalance": 321.96,
+    "profit": 60.98,
+    "dogs": [
+      {
+        "dogName": "Watermillcruella",
+        "rank": 2,
+        "betfairOdds": 3.05
+      },
+      {
+        "dogName": "Wraysbury Style",
+        "rank": 1,
+        "betfairOdds": 5.3
+      },
+      {
+        "dogName": "Tell On Daithi",
+        "rank": 3,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Watermill Stitch",
+        "rank": 4,
+        "betfairOdds": 17
+      },
+      {
+        "dogName": "Tomjohnjames",
+        "rank": 5,
+        "betfairOdds": 4.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047581,
+    "date": "2024-06-21",
+    "distance": 540,
+    "grade": "OR",
+    "time": "16:16:00",
+    "track": "Crayford",
+    "currentBalance": 321.96,
+    "profit": 60.98,
+    "dogs": [
+      {
+        "dogName": "Droopys Promise",
+        "rank": 1,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Dew Claw",
+        "rank": 2,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Ballydoyle View",
+        "rank": 3,
+        "betfairOdds": 9.2
+      },
+      {
+        "dogName": "Vital Last Hit",
+        "rank": 4,
+        "betfairOdds": 2.52
+      },
+      {
+        "dogName": "Stella Bella",
+        "rank": 5,
+        "betfairOdds": 8.4
+      }
+    ]
+  },
+  {
+    "raceId": 1046763,
+    "date": "2024-06-21",
+    "distance": 220,
+    "grade": "D2",
+    "time": "16:18:00",
+    "track": "Suffolk Downs",
+    "currentBalance": 325.86,
+    "profit": 62.93,
+    "dogs": [
+      {
+        "dogName": "Romeo Express",
+        "rank": 5,
+        "betfairOdds": 7.2
+      },
+      {
+        "dogName": "Naney Jezabelle",
+        "rank": 4,
+        "betfairOdds": 3.45
+      },
+      {
+        "dogName": "Hawkfield Karma",
+        "rank": 6,
+        "betfairOdds": 15.5
+      },
+      {
+        "dogName": "Catunda Chanel",
+        "rank": 3,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Blueboyu",
+        "rank": 2,
+        "betfairOdds": 4.6
+      },
+      {
+        "dogName": "Carols Clown",
+        "rank": 1,
+        "betfairOdds": 5
+      }
+    ]
+  },
+  {
+    "raceId": 1047734,
+    "date": "2024-06-21",
+    "distance": 462,
+    "grade": "A5",
+    "time": "16:22:00",
+    "track": "Kinsley",
+    "currentBalance": 317.46,
+    "profit": 58.73,
+    "dogs": [
+      {
+        "dogName": "Grumpy Wazock",
+        "rank": 1,
+        "betfairOdds": 3.1
+      },
+      {
+        "dogName": "Anytime Blue",
+        "rank": 2,
+        "betfairOdds": 17
+      },
+      {
+        "dogName": "Blue Star",
+        "rank": 3,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Tally Ho Lexi",
+        "rank": 4,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Ballymacken Time",
+        "rank": 5,
+        "betfairOdds": 4.2
+      },
+      {
+        "dogName": "Bathams George",
+        "rank": 6,
+        "betfairOdds": 6.2
+      }
+    ]
+  },
+  {
+    "raceId": 1047603,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A6",
+    "time": "16:26:00",
+    "track": "Towcester",
+    "currentBalance": 321.36,
+    "profit": 60.68,
+    "dogs": [
+      {
+        "dogName": "Walking Dead",
+        "rank": 2,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Sparta Perfect",
+        "rank": 1,
+        "betfairOdds": 2.72
+      },
+      {
+        "dogName": "The Grafter",
+        "rank": 3,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Fabulous Verona",
+        "rank": 4,
+        "betfairOdds": 3.35
+      },
+      {
+        "dogName": "Savana Coco",
+        "rank": 5,
+        "betfairOdds": 46
+      },
+      {
+        "dogName": "Dunbally Girl",
+        "rank": 6,
+        "betfairOdds": 28
+      }
+    ]
+  },
+  {
+    "raceId": 1047746,
+    "date": "2024-06-21",
+    "distance": 480,
+    "grade": "A4",
+    "time": "16:28:00",
+    "track": "Newcastle",
+    "currentBalance": 321.36,
+    "profit": 60.68,
+    "dogs": [
+      {
+        "dogName": "Yar Darlin",
+        "rank": 1,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Ballycoole Maggy",
+        "rank": 2,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Pennylane Oakley",
+        "rank": 4,
+        "betfairOdds": 3.3
+      },
+      {
+        "dogName": "Droopys Yee Haw",
+        "rank": 3,
+        "betfairOdds": 12.5
+      },
+      {
+        "dogName": "Shockwave Polar",
+        "rank": 5,
+        "betfairOdds": 4.1
+      },
+      {
+        "dogName": "Romeo Report",
+        "rank": 6,
+        "betfairOdds": 25
+      }
+    ]
+  },
+  {
+    "raceId": 1047582,
+    "date": "2024-06-21",
+    "distance": 380,
+    "grade": "A6",
+    "time": "16:34:00",
+    "track": "Crayford",
+    "currentBalance": 321.36,
+    "profit": 60.68,
+    "dogs": [
+      {
+        "dogName": "Easy Tara",
+        "rank": 1,
+        "betfairOdds": 3.95
+      },
+      {
+        "dogName": "Lough Mancini",
+        "rank": 2,
+        "betfairOdds": 19
+      },
+      {
+        "dogName": "Splashofthebold",
+        "rank": 3,
+        "betfairOdds": 9
+      },
+      {
+        "dogName": "Moaning Sampras",
+        "rank": 4,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Affleck Sinndar",
+        "rank": 5,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Distant Jill",
+        "rank": 6,
+        "betfairOdds": 3.5
+      }
+    ]
+  },
+  {
+    "raceId": 1046764,
+    "date": "2024-06-21",
+    "distance": 388,
+    "grade": "A3",
+    "time": "16:37:00",
+    "track": "Suffolk Downs",
+    "currentBalance": 325.26,
+    "profit": 62.63,
+    "dogs": [
+      {
+        "dogName": "Fenview Jade",
+        "rank": 1,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Lightfoot Jonjo",
+        "rank": 2,
+        "betfairOdds": 15.5
+      },
+      {
+        "dogName": "Energize Abada",
+        "rank": 3,
+        "betfairOdds": 3.7
+      },
+      {
+        "dogName": "Mazzy",
+        "rank": 4,
+        "betfairOdds": 11.5
+      },
+      {
+        "dogName": "Savana Lake",
+        "rank": 5,
+        "betfairOdds": 3.05
+      }
+    ]
+  },
+  {
+    "raceId": 1047735,
+    "date": "2024-06-21",
+    "distance": 462,
+    "grade": "A8",
+    "time": "16:41:00",
+    "track": "Kinsley",
+    "currentBalance": 325.26,
+    "profit": 62.63,
+    "dogs": [
+      {
+        "dogName": "Coologue Bess",
+        "rank": 1,
+        "betfairOdds": 5.5
+      },
+      {
+        "dogName": "Black Albatross",
+        "rank": 2,
+        "betfairOdds": 3.75
+      },
+      {
+        "dogName": "Melton Sydney",
+        "rank": 3,
+        "betfairOdds": 8.4
+      },
+      {
+        "dogName": "Grumpy Garlic",
+        "rank": 4,
+        "betfairOdds": 18
+      },
+      {
+        "dogName": "Leahys Taylor",
+        "rank": 5,
+        "betfairOdds": 13
+      }
+    ]
+  },
+  {
+    "raceId": 1047604,
+    "date": "2024-06-21",
+    "distance": 270,
+    "grade": "D1",
+    "time": "16:44:00",
+    "track": "Towcester",
+    "currentBalance": 329.16,
+    "profit": 64.58,
+    "dogs": [
+      {
+        "dogName": "Rentfrew Lad",
+        "rank": 4,
+        "betfairOdds": 4.7
+      },
+      {
+        "dogName": "Ballinahow Jacko",
+        "rank": 5,
+        "betfairOdds": 48
+      },
+      {
+        "dogName": "Essjay Syd",
+        "rank": 1,
+        "betfairOdds": 3.05
+      },
+      {
+        "dogName": "Makeit Epic",
+        "rank": 2,
+        "betfairOdds": 2.8
+      },
+      {
+        "dogName": "Fabulous Lara",
+        "rank": 3,
+        "betfairOdds": 26
+      }
+    ]
+  },
+  {
+    "raceId": 1047583,
+    "date": "2024-06-21",
+    "distance": 380,
+    "grade": "A5",
+    "time": "16:53:00",
+    "track": "Crayford",
+    "currentBalance": 333.06,
+    "profit": 66.53,
+    "dogs": [
+      {
+        "dogName": "Mustang Trent",
+        "rank": 1,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Turree Bruno",
+        "rank": 2,
+        "betfairOdds": 4.1
+      },
+      {
+        "dogName": "Butterbridge Lol",
+        "rank": 3,
+        "betfairOdds": 7.4
+      },
+      {
+        "dogName": "Phoenix Vegas",
+        "rank": 4,
+        "betfairOdds": 9
+      },
+      {
+        "dogName": "Kuda Maura",
+        "rank": 5,
+        "betfairOdds": 2.56
+      }
+    ]
+  },
+  {
+    "raceId": 1046765,
+    "date": "2024-06-21",
+    "distance": 388,
+    "grade": "A2",
+    "time": "16:56:00",
+    "track": "Suffolk Downs",
+    "currentBalance": 336.96,
+    "profit": 68.48,
+    "dogs": [
+      {
+        "dogName": "Wachovia Blaze",
+        "rank": 1,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Savana Cognac",
+        "rank": 2,
+        "betfairOdds": 25
+      },
+      {
+        "dogName": "Navaho",
+        "rank": 5,
+        "betfairOdds": 5.9
+      },
+      {
+        "dogName": "Private News",
+        "rank": 4,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Classic Tara",
+        "rank": 6,
+        "betfairOdds": 5.3
+      },
+      {
+        "dogName": "Brennans Bambi",
+        "rank": 3,
+        "betfairOdds": 2.84
+      }
+    ]
+  },
+  {
+    "raceId": 1047736,
+    "date": "2024-06-21",
+    "distance": 268,
+    "grade": "D3",
+    "time": "16:59:00",
+    "track": "Kinsley",
+    "currentBalance": 340.86,
+    "profit": 70.43,
+    "dogs": [
+      {
+        "dogName": "A Bad Winter",
+        "rank": 1,
+        "betfairOdds": 4.9
+      },
+      {
+        "dogName": "Saratoga Arteta",
+        "rank": 2,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Golden Whisper",
+        "rank": 3,
+        "betfairOdds": 3.95
+      },
+      {
+        "dogName": "Taylor Blue",
+        "rank": 4,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Brynoffa Alice",
+        "rank": 5,
+        "betfairOdds": 17
+      },
+      {
+        "dogName": "Canya Sunset",
+        "rank": 6,
+        "betfairOdds": 5
+      }
+    ]
+  },
+  {
+    "raceId": 1047605,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A3",
+    "time": "17:03:00",
+    "track": "Towcester",
+    "currentBalance": 340.86,
+    "profit": 70.43,
+    "dogs": [
+      {
+        "dogName": "Milton Lango",
+        "rank": 3,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Forest Leann",
+        "rank": 2,
+        "betfairOdds": 17
+      },
+      {
+        "dogName": "Perfecto Away",
+        "rank": 4,
+        "betfairOdds": 4.1
+      },
+      {
+        "dogName": "Westfield Vicky",
+        "rank": 5,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Savana Rodin",
+        "rank": 6,
+        "betfairOdds": 5
+      },
+      {
+        "dogName": "Essjay Alfred",
+        "rank": 1,
+        "betfairOdds": 5.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047748,
+    "date": "2024-06-21",
+    "distance": 480,
+    "grade": "A5",
+    "time": "17:06:00",
+    "track": "Newcastle",
+    "currentBalance": 344.76,
+    "profit": 72.38,
+    "dogs": [
+      {
+        "dogName": "Doonanes I Wins",
+        "rank": 1,
+        "betfairOdds": 5.2
+      },
+      {
+        "dogName": "Coopers Richie",
+        "rank": 2,
+        "betfairOdds": 13.5
+      },
+      {
+        "dogName": "Ballymac Fearne",
+        "rank": 3,
+        "betfairOdds": 3.25
+      },
+      {
+        "dogName": "Deelish Diva",
+        "rank": 5,
+        "betfairOdds": 13.5
+      },
+      {
+        "dogName": "Knockalton Bono",
+        "rank": 6,
+        "betfairOdds": 5.6
+      },
+      {
+        "dogName": "Wraysbury Honey",
+        "rank": 4,
+        "betfairOdds": 5.8
+      }
+    ]
+  },
+  {
+    "raceId": 1047584,
+    "date": "2024-06-21",
+    "distance": 380,
+    "grade": "A2",
+    "time": "17:12:00",
+    "track": "Crayford",
+    "currentBalance": 344.76,
+    "profit": 72.38,
+    "dogs": [
+      {
+        "dogName": "Swift Undeniable",
+        "rank": 1,
+        "betfairOdds": 11
+      },
+      {
+        "dogName": "Dangan Wee Girl",
+        "rank": 2,
+        "betfairOdds": 2.16
+      },
+      {
+        "dogName": "Moaning Countess",
+        "rank": 3,
+        "betfairOdds": 5.9
+      },
+      {
+        "dogName": "Someblake",
+        "rank": 4,
+        "betfairOdds": 6.2
+      },
+      {
+        "dogName": "Moaning Clyde",
+        "rank": 5,
+        "betfairOdds": 9
+      }
+    ]
+  },
+  {
+    "raceId": 1046766,
+    "date": "2024-06-21",
+    "distance": 388,
+    "grade": "A5",
+    "time": "17:14:00",
+    "track": "Suffolk Downs",
+    "currentBalance": 348.66,
+    "profit": 74.33,
+    "dogs": [
+      {
+        "dogName": "Magical Sophia",
+        "rank": 2,
+        "betfairOdds": 3.05
+      },
+      {
+        "dogName": "Buzeys Lady",
+        "rank": 1,
+        "betfairOdds": 4
+      },
+      {
+        "dogName": "Kilgraney Wild",
+        "rank": 3,
+        "betfairOdds": 2.86
+      },
+      {
+        "dogName": "Salems Panda",
+        "rank": 5,
+        "betfairOdds": 19
+      },
+      {
+        "dogName": "Savana Charlotte",
+        "rank": 4,
+        "betfairOdds": 28
+      }
+    ]
+  },
+  {
+    "raceId": 1047737,
+    "date": "2024-06-21",
+    "distance": 462,
+    "grade": "A7",
+    "time": "17:18:00",
+    "track": "Kinsley",
+    "currentBalance": 352.56,
+    "profit": 76.28,
+    "dogs": [
+      {
+        "dogName": "Brosna Summer",
+        "rank": 2,
+        "betfairOdds": 6
+      },
+      {
+        "dogName": "Drumdoit Loret",
+        "rank": 3,
+        "betfairOdds": 3.6
+      },
+      {
+        "dogName": "Request",
+        "rank": 4,
+        "betfairOdds": 13
+      },
+      {
+        "dogName": "Wilsham Blue",
+        "rank": 5,
+        "betfairOdds": 7.8
+      },
+      {
+        "dogName": "Grumpy Cookie",
+        "rank": 1,
+        "betfairOdds": 3.15
+      }
+    ]
+  },
+  {
+    "raceId": 1047606,
+    "date": "2024-06-21",
+    "distance": 500,
+    "grade": "A3",
+    "time": "17:21:00",
+    "track": "Towcester",
+    "currentBalance": 352.56,
+    "profit": 76.28,
+    "dogs": [
+      {
+        "dogName": "Orange Sydney",
+        "rank": 1,
+        "betfairOdds": 6.6
+      },
+      {
+        "dogName": "Makeit Missy",
+        "rank": 2,
+        "betfairOdds": 2.24
+      },
+      {
+        "dogName": "Fabulous Shelby",
+        "rank": 4,
+        "betfairOdds": 8.6
+      },
+      {
+        "dogName": "Uncle Juan",
+        "rank": 5,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Romeo Revere",
+        "rank": 6,
+        "betfairOdds": 9.6
+      },
+      {
+        "dogName": "Kuwaiti King",
+        "rank": 3,
+        "betfairOdds": 20
+      }
+    ]
+  },
+  {
+    "raceId": 1046767,
+    "date": "2024-06-21",
+    "distance": 388,
+    "grade": "A5",
+    "time": "17:29:00",
+    "track": "Suffolk Downs",
+    "currentBalance": 356.46,
+    "profit": 78.23,
+    "dogs": [
+      {
+        "dogName": "Antalya",
+        "rank": 1,
+        "betfairOdds": 5.5
+      },
+      {
+        "dogName": "Starling",
+        "rank": 3,
+        "betfairOdds": 4.4
+      },
+      {
+        "dogName": "Fionns Pet",
+        "rank": 4,
+        "betfairOdds": 26
+      },
+      {
+        "dogName": "Salems Jasmine",
+        "rank": 5,
+        "betfairOdds": 6.4
+      },
+      {
+        "dogName": "Savana Eliza",
+        "rank": 2,
+        "betfairOdds": 2.66
+      }
+    ]
+  },
+  {
+    "raceId": 1047585,
+    "date": "2024-06-21",
+    "distance": 380,
+    "grade": "A3",
+    "time": "17:31:00",
+    "track": "Crayford",
+    "currentBalance": 360.36,
+    "profit": 80.18,
+    "dogs": [
+      {
+        "dogName": "Carlow Town",
+        "rank": 1,
+        "betfairOdds": 5.3
+      },
+      {
+        "dogName": "Airport Star",
+        "rank": 2,
+        "betfairOdds": 7
+      },
+      {
+        "dogName": "Corbally Chubbs",
+        "rank": 3,
+        "betfairOdds": 2.94
+      },
+      {
+        "dogName": "Butts Legacy",
+        "rank": 4,
+        "betfairOdds": 6.8
+      },
+      {
+        "dogName": "Swift Donald",
+        "rank": 5,
+        "betfairOdds": 5.5
+      }
+    ]
+  },
+  {
+    "raceId": 1047738,
+    "date": "2024-06-21",
+    "distance": 462,
+    "grade": "A3",
+    "time": "17:37:00",
+    "track": "Kinsley",
+    "currentBalance": 360.36,
+    "profit": 80.18,
+    "dogs": [
+      {
+        "dogName": "Buzzers Delight",
+        "rank": 1,
+        "betfairOdds": 3.7
+      },
+      {
+        "dogName": "Da Man Joey",
+        "rank": 2,
+        "betfairOdds": 4.2
+      },
+      {
+        "dogName": "Fairyhill Daisy",
+        "rank": 3,
+        "betfairOdds": 7.6
+      },
+      {
+        "dogName": "Swanley Petunia",
+        "rank": 4,
+        "betfairOdds": 5.4
+      },
+      {
+        "dogName": "Leticias Pride",
+        "rank": 5,
+        "betfairOdds": 11
+      }
+    ]
+  },
+  {
+    "raceId": 1047607,
+    "date": "2024-06-21",
+    "distance": 270,
+    "grade": "D4",
+    "time": "17:39:00",
+    "track": "Towcester",
+    "currentBalance": 360.36,
+    "profit": 80.18,
+    "dogs": [
+      {
+        "dogName": "Hollow Talk",
+        "rank": 3,
+        "betfairOdds": 5.7
+      },
+      {
+        "dogName": "Greencroft Mini",
+        "rank": 4,
+        "betfairOdds": 36
+      },
+      {
+        "dogName": "Jim Bobs Fancy",
+        "rank": 2,
+        "betfairOdds": 5.8
+      },
+      {
+        "dogName": "El Prez Trev",
+        "rank": 5,
+        "betfairOdds": 12
+      },
+      {
+        "dogName": "Tunnelroadrunner",
+        "rank": 1,
+        "betfairOdds": 1.94
+      }
+    ]
+  },
+  {
+    "raceId": 1047750,
+    "date": "2024-06-21",
+    "distance": 480,
+    "grade": "A8",
+    "time": "17:43:00",
+    "track": "Newcastle",
+    "currentBalance": 364.26,
+    "profit": 82.13,
+    "dogs": [
+      {
+        "dogName": "Coppice Sassy",
+        "rank": 3,
+        "betfairOdds": 3.85
+      },
+      {
+        "dogName": "Wraysbury Lauren",
+        "rank": 2,
+        "betfairOdds": 2.9
+      },
+      {
+        "dogName": "Plan Of Escape",
+        "rank": 1,
+        "betfairOdds": 7
+      },
+      {
+        "dogName": "Wraysbury Wisp ",
+        "rank": 4,
+        "betfairOdds": 8
+      },
+      {
+        "dogName": "Lisnafulla Rosie",
+        "rank": 6,
+        "betfairOdds": 50
+      },
+      {
+        "dogName": "Ice To See You",
+        "rank": 5,
+        "betfairOdds": 11
+      }
+    ]
+  }
+]
